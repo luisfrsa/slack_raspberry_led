@@ -3,17 +3,25 @@ from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 from customer_actions import CustomerActions
 from dotenv import load_dotenv
+from led import LedStrip
+from color import Color
 
 load_dotenv()
-
-# for customerActions in CustomerActions:
-#      print(customerActions)
 
 BOT_TOKEN = os.getenv('BOT_TOKEN')
 APP_TOKEN = os.getenv('APP_TOKEN')
 
+app = App(token=BOT_TOKEN)
+
+# for customerActions in CustomerActions:
+#      print(customerActions)
+
 # Initializes your app with your bot token and socket mode handler
 app = App(token=BOT_TOKEN)
+
+
+ledStrip = LedStrip()
+color = Color(ledStrip)
 
 
 # Listens to incoming messages that contain "hello"
@@ -27,6 +35,8 @@ def message_hello(message, say):
         # print(key, ' : ', value)
     text = message['text']
     say("The text is: " + text)
+    color.writeAll(color.ORANGE)
+    color.writeAll(color.BLUE_GREEN)
 
 # Start your app
 if __name__ == "__main__":
