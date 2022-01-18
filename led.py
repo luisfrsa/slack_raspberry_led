@@ -17,31 +17,4 @@ class LedStrip:
     def __init__(self):
         self.ledStrip = Adafruit_NeoPixel(self.LED_COUNT, self.LED_PIN, self.LED_FREQ_HZ,self.LED_DMA,self.LED_INVERT,self.LED_BRIGHTNESS,self.LED_CHANNEL)
 
- 
-# # creating object of the class
-# obj = LedStrip()
- 
-# # calling the instance method using the object obj
-# obj.strip.begin()
-
-# for x in range(0,LedStrip.LED_COUNT):
-#     obj.strip.setPixelColor(x,Color(255,0,0))
-
-# obj.strip.show()
-# time.sleep(0.5)
-
-# for x in range(0,LedStrip.LED_COUNT):
-#     obj.strip.setPixelColor(x,Color(0,255,0))
-
-# obj.strip.show()
-
-# time.sleep(0.5)
-
-
-# for x in range(0,LedStrip.LED_COUNT):
-#     obj.strip.setPixelColor(x,Color(0,0,255))
-
-# obj.strip.show()
-# time.sleep(0.5)
-
 
