@@ -3,8 +3,8 @@ from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 from customer_actions import CustomerActions
 from dotenv import load_dotenv
-# from led import LedStrip
-# from colors import Colors
+from led import LedStrip
+from write_led import WriteLed
 
 load_dotenv()
 
@@ -20,9 +20,11 @@ app = App(token=BOT_TOKEN)
 app = App(token=BOT_TOKEN)
 
 
-# ledStrip = LedStrip()
-# colors = Colors(ledStrip)
+ledStrip = LedStrip()
+write_led = WriteLed(ledStrip)
 
+write_led.gradient2(write_led.RED, write_led.GREEN)
+write_led.off()
 
 # Listens to incoming messages that contain "hello"
 # To learn available listener arguments,
@@ -31,22 +33,14 @@ app = App(token=BOT_TOKEN)
 def message_hello(message, say):
     # say() sends a message to the channel where the event was triggered
     # say(f"ASD there <@{message['user']}>!")
-    for key, value in message.items():
-        print(key, ' : ', value)
-    print("message_hello!")
+    # for key, value in message.items():
+        # print(key, ' : ', value)
     text = message['text']
-    print("the msg was",text)
-    print(text)
-    # say("The text is: " + text)
-    # colors.writeAll(colors.ORANGE)
-    # colors.off()
-    # colors.writeAll(colors.ORANGE)
-    # colors.off()
-
-@app.event("message")
-def handle_message_events(body, logger):
-    print("handle_message_events!")
-    logger.info(body)
+    say("The text is: " + text)
+    write_led.writeAll(write_led.ORANGE)
+    write_led.off()
+    write_led.writeAll(write_led.ORANGE)
+    write_led.off()
 
 # Start your app
 if __name__ == "__main__":
