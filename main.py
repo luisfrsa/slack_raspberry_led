@@ -3,8 +3,8 @@ from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 from customer_actions import CustomerActions
 from dotenv import load_dotenv
-from led import LedStrip
-from color import Color
+# from led import LedStrip
+# from colors import Colors
 
 load_dotenv()
 
@@ -20,8 +20,8 @@ app = App(token=BOT_TOKEN)
 app = App(token=BOT_TOKEN)
 
 
-ledStrip = LedStrip()
-color = Color(ledStrip)
+# ledStrip = LedStrip()
+# colors = Colors(ledStrip)
 
 
 # Listens to incoming messages that contain "hello"
@@ -31,12 +31,22 @@ color = Color(ledStrip)
 def message_hello(message, say):
     # say() sends a message to the channel where the event was triggered
     # say(f"ASD there <@{message['user']}>!")
-    # for key, value in message.items():
-        # print(key, ' : ', value)
+    for key, value in message.items():
+        print(key, ' : ', value)
+    print("message_hello!")
     text = message['text']
-    say("The text is: " + text)
-    color.writeAll(color.ORANGE)
-    color.writeAll(color.BLUE_GREEN)
+    print("the msg was",text)
+    print(text)
+    # say("The text is: " + text)
+    # colors.writeAll(colors.ORANGE)
+    # colors.off()
+    # colors.writeAll(colors.ORANGE)
+    # colors.off()
+
+@app.event("message")
+def handle_message_events(body, logger):
+    print("handle_message_events!")
+    logger.info(body)
 
 # Start your app
 if __name__ == "__main__":

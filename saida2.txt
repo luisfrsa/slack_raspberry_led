@@ -1,0 +1,1857 @@
+⚡️ Bolt app is running!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Mandola's Italian Kitchen
+ts  :  1641843020.182900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'rm1DJ', 'text': {'type': 'mrkdwn', 'text': "*Mandola's Italian Kitchen* just subscribed! :aaron_jocano:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177627'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwMH49abcfRJFb'}], 'action_id': 'j82'}}, {'type': 'section', 'block_id': 'cf1S', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Dg0n', 'elements': [{'type': 'mrkdwn', 'text': '+$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'NhUf', 'text': {'type': 'mrkdwn', 'text': 'Tampa FL, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641843020.182900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Mandola's Italian Kitchen
+New Customer: Mandola's Italian Kitchen
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Slice on Broadway
+ts  :  1641843361.183300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'UKdyy', 'text': {'type': 'mrkdwn', 'text': '*Slice on Broadway* just subscribed! :kunaal_chopra:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179498'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwMNHsIQ3YquEQ'}], 'action_id': 'Aqzmm'}}, {'type': 'section', 'block_id': 'OtM8', 'text': {'type': 'mrkdwn', 'text': '4 · works-v2-usd\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'LUh', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'jmWeb', 'text': {'type': 'mrkdwn', 'text': 'Pittsburgh PA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641843361.183300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Slice on Broadway
+New Customer: Slice on Broadway
+⚡️ Bolt app is running!
+client_msg_id  :  76eb1aa0-3826-4562-8d9b-88ad403a2e83
+type  :  message
+text  :  <@UT651MPTL> <@U23JTGQUE> <@UJET1D9UL> a close from the test by <@USQ5FTZJN>
+user  :  UQ74YFYQH
+ts  :  1641843922.183900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '5pxcr', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'UT651MPTL'}, {'type': 'text', 'text': ' '}, {'type': 'user', 'user_id': 'U23JTGQUE'}, {'type': 'text', 'text': ' '}, {'type': 'user', 'user_id': 'UJET1D9UL'}, {'type': 'text', 'text': ' a close from the test by '}, {'type': 'user', 'user_id': 'USQ5FTZJN'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641843922.183900
+channel_type  :  channel
+message_hello!
+the msg was <@UT651MPTL> <@U23JTGQUE> <@UJET1D9UL> a close from the test by <@USQ5FTZJN>
+<@UT651MPTL> <@U23JTGQUE> <@UJET1D9UL> a close from the test by <@USQ5FTZJN>
+client_msg_id  :  ec46a1c6-8cd7-4346-9f1c-f3f0decf216f
+type  :  message
+text  :  Got'damn! Amazing work <@USQ5FTZJN> :fire:
+user  :  U23JTGQUE
+ts  :  1641844087.184300
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '11B', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': "Got'damn! Amazing work "}, {'type': 'user', 'user_id': 'USQ5FTZJN'}, {'type': 'text', 'text': ' '}, {'type': 'emoji', 'name': 'fire'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641844087.184300
+channel_type  :  channel
+message_hello!
+the msg was Got'damn! Amazing work <@USQ5FTZJN> :fire:
+Got'damn! Amazing work <@USQ5FTZJN> :fire:
+client_msg_id  :  e6a761a9-514f-43e7-bef4-f74ae3c9d893
+type  :  message
+text  :  NOICE
+user  :  U043NATTD
+ts  :  1641844282.184800
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '3jA', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'NOICE'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641844282.184800
+channel_type  :  channel
+message_hello!
+the msg was NOICE
+NOICE
+handle_message_events!
+client_msg_id  :  35e8dfdb-8989-490d-8807-7b647f47d7ef
+type  :  message
+text  :  Thank you!
+user  :  USQ5FTZJN
+ts  :  1641844362.185400
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'zcY', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Thank you!'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641844362.185400
+channel_type  :  channel
+message_hello!
+the msg was Thank you!
+Thank you!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Safe Harbor Seafood
+ts  :  1641844739.185700
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'io+IW', 'text': {'type': 'mrkdwn', 'text': '*Safe Harbor Seafood* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179514'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwMkaBUakyD2vQ'}], 'action_id': '83S4'}}, {'type': 'section', 'block_id': '6+p', 'text': {'type': 'mrkdwn', 'text': '4 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'p0uR', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'YewXJ', 'text': {'type': 'mrkdwn', 'text': 'Atlantic Beach FL, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641844739.185700
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Safe Harbor Seafood
+New Customer: Safe Harbor Seafood
+type  :  message
+subtype  :  bot_message
+text  :  Safe Harbor Seafood purchased an addon!
+ts  :  1641844749.185800
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'GCDr', 'text': {'type': 'mrkdwn', 'text': '*Safe Harbor Seafood* purchased an addon! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179514'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwMkaBUakyD2vQ'}], 'action_id': 'Imt'}}, {'type': 'section', 'block_id': 'wUzB', 'text': {'type': 'mrkdwn', 'text': '*4 · operations-overview-usd*\n\nother subscriptions:\n4 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'GM+', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641844749.185800
+channel_type  :  channel
+message_hello!
+the msg was Safe Harbor Seafood purchased an addon!
+Safe Harbor Seafood purchased an addon!
+client_msg_id  :  40363d6d-376f-414a-921e-09ff56c21d55
+type  :  message
+text  :  <@UMQFYHY07> is ON FIYA!!!!
+user  :  UT55ETM6J
+ts  :  1641845097.187000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'uD7', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'UMQFYHY07'}, {'type': 'text', 'text': ' is ON FIYA!!!!'}]}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641845097.187000
+channel_type  :  channel
+message_hello!
+the msg was <@UMQFYHY07> is ON FIYA!!!!
+<@UMQFYHY07> is ON FIYA!!!!
+bot_id  :  B10M9RMJR
+type  :  message
+text  :  [JORDAN]
+user  :  UT55ETM6J
+ts  :  1641845119.187300
+team  :  T043NATS3
+bot_profile  :  {'id': 'B10M9RMJR', 'deleted': False, 'name': 'giphy', 'updated': 1460644167, 'app_id': 'A0F827J2C', 'icons': {'image_36': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png', 'image_48': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_48.png', 'image_72': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png'}, 'team_id': 'T043NATS3'}
+blocks  :  [{'type': 'image', 'block_id': 'xqoQ', 'image_url': 'https://media0.giphy.com/media/26BRyD3KiIvaRPluM/giphy-downsized.gif?cid=6104955ebd194f5bfc7e5bc25c5d1bc25c957dc90afcaf8f&rid=giphy-downsized.gif&ct=g', 'alt_text': '[JORDAN]', 'title': {'type': 'plain_text', 'text': '[JORDAN]', 'emoji': True}, 'fallback': '480x370px image', 'image_width': 480, 'image_height': 370, 'image_bytes': 1919272, 'is_animated': True}, {'type': 'context', 'block_id': 'Gibp', 'elements': [{'type': 'image', 'image_url': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_32.png', 'alt_text': 'giphy logo'}, {'type': 'mrkdwn', 'text': 'Posted using /giphy | GIF by <https://giphy.com/nba/|NBA>', 'verbatim': False}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641845119.187300
+channel_type  :  channel
+message_hello!
+the msg was [JORDAN]
+[JORDAN]
+type  :  message
+subtype  :  bot_message
+text  :  Loosey's cancelled their account
+ts  :  1641845209.187700
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'jsL7', 'text': {'type': 'mrkdwn', 'text': "*Loosey's* cancelled their account \n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/3724'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Er7ZjU2QlDuPSo'}], 'action_id': '9uA'}}, {'type': 'section', 'block_id': 'bZFz', 'text': {'type': 'mrkdwn', 'text': '1 · entree-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Ap1DU', 'elements': [{'type': 'mrkdwn', 'text': '-$43.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'PDF9B', 'text': {'type': 'mrkdwn', 'text': 'Admin requested cancelation without reason provided.  No response after multiple contact attempts. No activity within the acct since March 2020, last payment attempt failed. Cancelling the account - SC\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641845209.187700
+channel_type  :  channel
+message_hello!
+the msg was Loosey's cancelled their account
+Loosey's cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Kotsu Ramen & Gyoza
+ts  :  1641845568.188300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'GeoZT', 'text': {'type': 'mrkdwn', 'text': '*Kotsu Ramen &amp; Gyoza* just subscribed! :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176686'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwMyj9SaR3xeQo'}], 'action_id': 'kjNrO'}}, {'type': 'section', 'block_id': 'dzuz', 'text': {'type': 'mrkdwn', 'text': '4 · appetizer-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '01yBB', 'elements': [{'type': 'mrkdwn', 'text': '+$79.96 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '1speu', 'text': {'type': 'mrkdwn', 'text': 'LA CANADA FLINTRIDGE CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641845568.188300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Kotsu Ramen & Gyoza
+New Customer: Kotsu Ramen & Gyoza
+client_msg_id  :  7f11f1f2-6482-4279-a915-a60431853d4b
+type  :  message
+text  :  Whooooo go AJ!!! :partying_face:
+user  :  U020K8Q9ABF
+ts  :  1641845747.188500
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '8Y7/', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Whooooo go AJ!!! '}, {'type': 'emoji', 'name': 'partying_face'}]}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641845747.188500
+channel_type  :  channel
+message_hello!
+the msg was Whooooo go AJ!!! :partying_face:
+Whooooo go AJ!!! :partying_face:
+type  :  message
+subtype  :  bot_message
+text  :  Black Duck Cafe (553c8930735ff4e49333eed65c265743) downgraded their plan
+ts  :  1641845750.188700
+bot_id  :  B017H9Q1Z9S
+blocks  :  [{'type': 'section', 'block_id': 'rmgL', 'text': {'type': 'mrkdwn', 'text': '*Black Duck Cafe (553c8930735ff4e49333eed65c265743)* downgraded their plan \n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/5348'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_672JWyiYNQZUz7'}], 'action_id': 'KbPN'}}, {'type': 'section', 'block_id': 'd=yDn', 'text': {'type': 'mrkdwn', 'text': '*1 · entree → appetizer*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'lmcL', 'elements': [{'type': 'mrkdwn', 'text': '-$19.32 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641845750.188700
+channel_type  :  channel
+message_hello!
+the msg was Black Duck Cafe (553c8930735ff4e49333eed65c265743) downgraded their plan
+Black Duck Cafe (553c8930735ff4e49333eed65c265743) downgraded their plan
+client_msg_id  :  330c3494-0d4c-4d55-98db-a551a93abb25
+type  :  message
+text  :  AJ's emoji is taking over Dollarbillz! Fire Monday.
+user  :  U01QJ5ZFF44
+ts  :  1641846073.189000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'kFp1', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': "AJ's emoji is taking over Dollarbillz! Fire Monday."}]}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641846073.189000
+channel_type  :  channel
+message_hello!
+the msg was AJ's emoji is taking over Dollarbillz! Fire Monday.
+AJ's emoji is taking over Dollarbillz! Fire Monday.
+type  :  message
+subtype  :  bot_message
+text  :  Shawn's Sherbert upgraded their plan!
+ts  :  1641846958.189800
+bot_id  :  B017H9MT02G
+blocks  :  [{'type': 'section', 'block_id': 'U9RqH', 'text': {'type': 'mrkdwn', 'text': "*Shawn's Sherbert* upgraded their plan! :john_traboulsi:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/96348'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_HPc3AmeWLX85nO'}], 'action_id': 'Q9i'}}, {'type': 'section', 'block_id': 'YZp', 'text': {'type': 'mrkdwn', 'text': '*1 · appetizer → entree-v5*\n\nCoupon: SHAWNS_SHERBERT_100_PERC_OFF_MONTH', 'verbatim': False}}, {'type': 'context', 'block_id': 'YMZk0', 'elements': [{'type': 'mrkdwn', 'text': '-$16.09 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641846958.189800
+channel_type  :  channel
+message_hello!
+the msg was Shawn's Sherbert upgraded their plan!
+Shawn's Sherbert upgraded their plan!
+type  :  message
+subtype  :  bot_message
+text  :  Crazy Pita  Restaurant Group upgraded their plan!
+ts  :  1641847755.189900
+bot_id  :  B017H9MT02G
+blocks  :  [{'type': 'section', 'block_id': 'zKQg', 'text': {'type': 'mrkdwn', 'text': '*Crazy Pita  Restaurant Group* upgraded their plan! :stacey:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhQxS8ONK0S9hK'}], 'action_id': 'Bv='}}, {'type': 'section', 'block_id': 'R0HEY', 'text': {'type': 'mrkdwn', 'text': '*3 · entree-usd → works-usd*\n\nother subscriptions:\n3 · task-management-usd\n3 · log-book-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'umDH', 'elements': [{'type': 'mrkdwn', 'text': '+$99.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641847755.189900
+channel_type  :  channel
+message_hello!
+the msg was Crazy Pita  Restaurant Group upgraded their plan!
+Crazy Pita  Restaurant Group upgraded their plan!
+client_msg_id  :  2cc49bc8-e78c-4473-849e-204d133f3aa0
+type  :  message
+text  :  <@U02ATC35Z8V> :fistbump:
+user  :  U025UJ3TLL8
+ts  :  1641847777.190100
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'fr=', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U02ATC35Z8V'}, {'type': 'text', 'text': ' '}, {'type': 'emoji', 'name': 'fistbump'}]}]}]
+thread_ts  :  1641847755.189900
+channel  :  C07TKEQ06
+event_ts  :  1641847777.190100
+channel_type  :  channel
+message_hello!
+the msg was <@U02ATC35Z8V> :fistbump:
+<@U02ATC35Z8V> :fistbump:
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Aide Et Soin À Domicile J.L
+ts  :  1641847985.190600
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'pi6', 'text': {'type': 'mrkdwn', 'text': '*Aide Et Soin À Domicile J.L* just subscribed! :natalie_taylor:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176829'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwNcDf6lf7gcAF'}], 'action_id': 'UiQ+'}}, {'type': 'section', 'block_id': 'jwI1P', 'text': {'type': 'mrkdwn', 'text': '1 · comp-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'nnGx4', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641847985.190600
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Aide Et Soin À Domicile J.L
+New Customer: Aide Et Soin À Domicile J.L
+type  :  message
+subtype  :  bot_message
+text  :  Frucht Company deleted a location
+ts  :  1641848115.191400
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'vdj', 'text': {'type': 'mrkdwn', 'text': '*Frucht Company* deleted a location :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176894'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kw0yj9XeazE481'}], 'action_id': 'Ae4'}}, {'type': 'section', 'block_id': 'i0Yu', 'text': {'type': 'mrkdwn', 'text': '2 → 1 works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'I1x', 'elements': [{'type': 'mrkdwn', 'text': '-$76.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641848115.191400
+channel_type  :  channel
+message_hello!
+the msg was Frucht Company deleted a location
+Frucht Company deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  VC Tiffin downgraded their plan
+ts  :  1641848118.191500
+bot_id  :  B017H9Q1Z9S
+blocks  :  [{'type': 'section', 'block_id': '90O4', 'text': {'type': 'mrkdwn', 'text': '*VC Tiffin* downgraded their plan :jace_muggli:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/131698'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JNGEvuWC2W42LE'}], 'action_id': 't3N'}}, {'type': 'section', 'block_id': '+i460', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → entree-v5-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'IkDQ', 'elements': [{'type': 'mrkdwn', 'text': '-$33.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641848118.191500
+channel_type  :  channel
+message_hello!
+the msg was VC Tiffin downgraded their plan
+VC Tiffin downgraded their plan
+client_msg_id  :  34bfaa34-6e6f-4d06-b79d-8eb4e894ab70
+type  :  message
+text  :  <@UMQFYHY07> :fire:
+user  :  U021KSAKVU2
+ts  :  1641848534.191900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'uEa', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'UMQFYHY07'}, {'type': 'text', 'text': ' '}, {'type': 'emoji', 'name': 'fire'}]}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641848534.191900
+channel_type  :  channel
+message_hello!
+the msg was <@UMQFYHY07> :fire:
+<@UMQFYHY07> :fire:
+client_msg_id  :  ed948a8b-fff0-434a-8593-21a66562ce9a
+type  :  message
+text  :  WOW <@UMQFYHY07>
+user  :  U02JELHA52S
+ts  :  1641848893.192400
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'bu=Mv', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'WOW '}, {'type': 'user', 'user_id': 'UMQFYHY07'}]}]}]
+thread_ts  :  1641844739.185700
+channel  :  C07TKEQ06
+event_ts  :  1641848893.192400
+channel_type  :  channel
+message_hello!
+the msg was WOW <@UMQFYHY07>
+WOW <@UMQFYHY07>
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Cal Green Medical
+ts  :  1641848914.192600
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '92Gu/', 'text': {'type': 'mrkdwn', 'text': '*Cal Green Medical* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179509'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwNs7I9z39g0hR'}], 'action_id': 'oih'}}, {'type': 'section', 'block_id': '=9X', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'bT9e', 'elements': [{'type': 'mrkdwn', 'text': '+$17.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'mori', 'text': {'type': 'mrkdwn', 'text': 'santa barbara CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641848914.192600
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Cal Green Medical
+New Customer: Cal Green Medical
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Flight Tap & Table
+ts  :  1641849243.192800
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'h5ldR', 'text': {'type': 'mrkdwn', 'text': '*Flight Tap &amp; Table* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176975'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwNxQZk1EuAszX'}], 'action_id': 'uGlZ'}}, {'type': 'section', 'block_id': 'LA7', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-usd\nCoupon: 2022_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'Jcer', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'UNgC', 'text': {'type': 'mrkdwn', 'text': 'Pasco WA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641849243.192800
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Flight Tap & Table
+New Customer: Flight Tap & Table
+client_msg_id  :  4afccbb3-66e0-4d47-9ac6-bb6c6db85d12
+type  :  message
+text  :  Nice work <@USQ5FTZJN> :star-struck: did they give you a CC on the first call?
+user  :  UT651MPTL
+ts  :  1641849330.192900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '78ZfO', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Nice work '}, {'type': 'user', 'user_id': 'USQ5FTZJN'}, {'type': 'text', 'text': ' '}, {'type': 'emoji', 'name': 'star-struck'}, {'type': 'text', 'text': ' did they give you a CC on the first call?'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641849330.192900
+channel_type  :  channel
+message_hello!
+the msg was Nice work <@USQ5FTZJN> :star-struck: did they give you a CC on the first call?
+Nice work <@USQ5FTZJN> :star-struck: did they give you a CC on the first call?
+type  :  message
+subtype  :  bot_message
+text  :  New Location for Elan Group 
+ts  :  1641849816.193200
+bot_id  :  B016WBNJ7P1
+blocks  :  [{'type': 'section', 'block_id': 'ClMrz', 'text': {'type': 'mrkdwn', 'text': '*Elan Group * added a location! :brent_waites:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/80917'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_GaE6aC9sXjy75M'}], 'action_id': 'x40'}}, {'type': 'section', 'block_id': 'Z38', 'text': {'type': 'mrkdwn', 'text': '4 → 5 works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '1pkTA', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641849816.193200
+channel_type  :  channel
+message_hello!
+the msg was New Location for Elan Group 
+New Location for Elan Group 
+client_msg_id  :  443bcfc8-afad-40f6-82e9-d457d9ff3d5f
+type  :  message
+text  :  Thanks <@UT651MPTL>. Yes! He paid on the first demo
+user  :  USQ5FTZJN
+ts  :  1641850084.194000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'a6/2N', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Thanks '}, {'type': 'user', 'user_id': 'UT651MPTL'}, {'type': 'text', 'text': '. Yes! He paid on the first demo'}]}]}]
+thread_ts  :  1641843361.183300
+channel  :  C07TKEQ06
+event_ts  :  1641850084.194000
+channel_type  :  channel
+message_hello!
+the msg was Thanks <@UT651MPTL>. Yes! He paid on the first demo
+Thanks <@UT651MPTL>. Yes! He paid on the first demo
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: James Dean Burgers & More
+ts  :  1641850770.194500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'u0H', 'text': {'type': 'mrkdwn', 'text': '*James Dean Burgers &amp; More* just subscribed! :natalie_taylor:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176994'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwONz00XYp5ShC'}], 'action_id': 'LJ1Y'}}, {'type': 'section', 'block_id': 'Pr3', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'aQ7lR', 'elements': [{'type': 'mrkdwn', 'text': '+$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '592x', 'text': {'type': 'mrkdwn', 'text': 'Salinas CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641850770.194500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: James Dean Burgers & More
+New Customer: James Dean Burgers & More
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Dantes
+ts  :  1641850927.194600
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'WBQF', 'text': {'type': 'mrkdwn', 'text': '*Dantes* just subscribed! :john_traboulsi:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179532'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwOPQLbOGEjEDV'}], 'action_id': 'LraK0'}}, {'type': 'section', 'block_id': 'W1h', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: 2022_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': '4tg6e', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '7JQh', 'text': {'type': 'mrkdwn', 'text': 'Miami FL, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641850927.194600
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Dantes
+New Customer: Dantes
+type  :  message
+subtype  :  bot_message
+text  :  Dantes purchased an addon!
+ts  :  1641850941.194700
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'yVfy', 'text': {'type': 'mrkdwn', 'text': '*Dantes* purchased an addon! :john_traboulsi:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179532'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwOPQLbOGEjEDV'}], 'action_id': 's3Ks'}}, {'type': 'section', 'block_id': 'rtNjR', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-usd*\n\nother subscriptions:\n1 · works-v2-usd\nCoupon: 2022_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'zisoz', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641850941.194700
+channel_type  :  channel
+message_hello!
+the msg was Dantes purchased an addon!
+Dantes purchased an addon!
+bot_id  :  B10M9RMJR
+type  :  message
+text  :  inferno
+user  :  UAAEM02JW
+ts  :  1641851397.195000
+team  :  T043NATS3
+bot_profile  :  {'id': 'B10M9RMJR', 'deleted': False, 'name': 'giphy', 'updated': 1460644167, 'app_id': 'A0F827J2C', 'icons': {'image_36': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png', 'image_48': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_48.png', 'image_72': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_72.png'}, 'team_id': 'T043NATS3'}
+blocks  :  [{'type': 'image', 'block_id': '/NZ9', 'image_url': 'https://media0.giphy.com/media/xUPGcESvfRaiFNer2o/giphy-downsized.gif?cid=6104955eb5dfe555a367b27eb616db8863d994663864f872&rid=giphy-downsized.gif&ct=g', 'alt_text': 'inferno', 'title': {'type': 'plain_text', 'text': 'inferno', 'emoji': True}, 'fallback': '384x216px image', 'image_width': 384, 'image_height': 216, 'image_bytes': 1772197, 'is_animated': True}, {'type': 'context', 'block_id': 'Af6mW', 'elements': [{'type': 'image', 'image_url': 'https://a.slack-edge.com/dc483/img/plugins/giphy/service_32.png', 'alt_text': 'giphy logo'}, {'type': 'mrkdwn', 'text': 'Posted using /giphy | GIF by <https://giphy.com/empire/|Empire FOX>', 'verbatim': False}]}]
+thread_ts  :  1641850927.194600
+channel  :  C07TKEQ06
+event_ts  :  1641851397.195000
+channel_type  :  channel
+message_hello!
+the msg was inferno
+inferno
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Cheba Hut
+ts  :  1641852064.195400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'vkL', 'text': {'type': 'mrkdwn', 'text': '*Cheba Hut* just subscribed! :natalie_taylor:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177260'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwOissB0rosQl7'}], 'action_id': 'C1=J6'}}, {'type': 'section', 'block_id': '46X', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: HOLIDAY_3MO_100', 'verbatim': False}}, {'type': 'context', 'block_id': 'UKprF', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'rHwA', 'text': {'type': 'mrkdwn', 'text': 'cincinnati  OH, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641852064.195400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Cheba Hut
+New Customer: Cheba Hut
+client_msg_id  :  7b756793-a5bc-4acf-a264-6b30a27c5755
+type  :  message
+text  :  Interesting! <@U02GKK8B9PY> I'm working with head office right now and have a second call with their team on Thursday... word is getting out! :slightly_smiling_face: any details about what this franchisee loved about 7s is greatly appreciated!
+user  :  U0U7FGWA2
+ts  :  1641852238.195600
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'fej', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Interesting! '}, {'type': 'user', 'user_id': 'U02GKK8B9PY'}, {'type': 'text', 'text': " I'm working with head office right now and have a second call with their team on Thursday... word is getting out! "}, {'type': 'emoji', 'name': 'slightly_smiling_face'}, {'type': 'text', 'text': ' any details about what this franchisee loved about 7s is greatly appreciated!'}]}]}]
+thread_ts  :  1641852064.195400
+channel  :  C07TKEQ06
+event_ts  :  1641852238.195600
+channel_type  :  channel
+message_hello!
+the msg was Interesting! <@U02GKK8B9PY> I'm working with head office right now and have a second call with their team on Thursday... word is getting out! :slightly_smiling_face: any details about what this franchisee loved about 7s is greatly appreciated!
+Interesting! <@U02GKK8B9PY> I'm working with head office right now and have a second call with their team on Thursday... word is getting out! :slightly_smiling_face: any details about what this franchisee loved about 7s is greatly appreciated!
+client_msg_id  :  758482a6-b86f-48be-9bcf-3e0bbf2ceba4
+type  :  message
+text  :  amazing! <@U0U7FGWA2> I'll send ya a message:)
+user  :  U02GKK8B9PY
+ts  :  1641853346.196000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'TpK', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'amazing! '}, {'type': 'user', 'user_id': 'U0U7FGWA2'}, {'type': 'text', 'text': " I'll send ya a message:)"}]}]}]
+thread_ts  :  1641852064.195400
+channel  :  C07TKEQ06
+event_ts  :  1641853346.196000
+channel_type  :  channel
+message_hello!
+the msg was amazing! <@U0U7FGWA2> I'll send ya a message:)
+amazing! <@U0U7FGWA2> I'll send ya a message:)
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Lehi Bakery
+ts  :  1641854001.196200
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'K0LN', 'text': {'type': 'mrkdwn', 'text': '*Lehi Bakery* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/168570'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwPEZOkLeDenci'}], 'action_id': 'D4X'}}, {'type': 'section', 'block_id': 'eBoi', 'text': {'type': 'mrkdwn', 'text': '1 · comp-v3-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'gXkLe', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641854001.196200
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Lehi Bakery
+New Customer: Lehi Bakery
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Pursuit Collection - Glacier Park
+ts  :  1641855877.196300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '9hTq8', 'text': {'type': 'mrkdwn', 'text': '*Pursuit Collection - Glacier Park* just subscribed! :raised_hands:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/174052'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwPkQ4oEQcaXbt'}], 'action_id': 'mp1S'}}, {'type': 'section', 'block_id': 'hQ+v', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'TZJq', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'CZon', 'text': {'type': 'mrkdwn', 'text': 'COLUMBIA FALLS MT, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641855877.196300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Pursuit Collection - Glacier Park
+New Customer: Pursuit Collection - Glacier Park
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Perch Pub Brewhouse
+ts  :  1641856186.196400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'wNl', 'text': {'type': 'mrkdwn', 'text': '*Perch Pub Brewhouse* just subscribed! :kunaal_chopra:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179554'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwPpRZYeyg23a6'}], 'action_id': 'gXC'}}, {'type': 'section', 'block_id': '+k4', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: ADPDATA_WORKSFOR40', 'verbatim': False}}, {'type': 'context', 'block_id': 'emxN', 'elements': [{'type': 'mrkdwn', 'text': '+$40.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Hw7Z', 'text': {'type': 'mrkdwn', 'text': 'Chandler AZ, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641856186.196400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Perch Pub Brewhouse
+New Customer: Perch Pub Brewhouse
+client_msg_id  :  f7d28433-86ae-4610-9521-7d8291a5ece6
+type  :  message
+text  :  ADP Connector
+user  :  UAAEM02JW
+ts  :  1641856197.196500
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'shR', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'ADP Connector'}]}]}]
+thread_ts  :  1641856186.196400
+channel  :  C07TKEQ06
+event_ts  :  1641856197.196500
+channel_type  :  channel
+message_hello!
+the msg was ADP Connector
+ADP Connector
+type  :  message
+subtype  :  bot_message
+text  :  New Location for Church Street Steakhouse
+ts  :  1641856897.196700
+bot_id  :  B016WBNJ7P1
+blocks  :  [{'type': 'section', 'block_id': 'QrCaE', 'text': {'type': 'mrkdwn', 'text': '*Church Street Steakhouse* added a location! :jace_muggli:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/140311'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Jlcz0jC02Fz2pF'}], 'action_id': 'nwK'}}, {'type': 'section', 'block_id': 'rS9l', 'text': {'type': 'mrkdwn', 'text': '1 → 2 works-v2-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'U3Y', 'elements': [{'type': 'mrkdwn', 'text': '+$56.34 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641856897.196700
+channel_type  :  channel
+message_hello!
+the msg was New Location for Church Street Steakhouse
+New Location for Church Street Steakhouse
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Riva Fish House
+ts  :  1641857079.196800
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'hb7W', 'text': {'type': 'mrkdwn', 'text': '*Riva Fish House* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177896'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwQ4rhq9VjgJSX'}], 'action_id': 'Crb'}}, {'type': 'section', 'block_id': 'VbUt', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'uz/', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'cvvK', 'text': {'type': 'mrkdwn', 'text': 'SANTA CRUZ CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641857079.196800
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Riva Fish House
+New Customer: Riva Fish House
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Galvin Family
+ts  :  1641857900.196900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '+KkB', 'text': {'type': 'mrkdwn', 'text': '*Galvin Family* just subscribed! :jace_muggli:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/145736'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwQHZKcPaqlmYG'}], 'action_id': 'mxLYX'}}, {'type': 'section', 'block_id': 'VX1', 'text': {'type': 'mrkdwn', 'text': '1 · comp-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Rlq/R', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641857900.196900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Galvin Family
+New Customer: Galvin Family
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: The Cellar
+ts  :  1641858187.197000
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'ChfYm', 'text': {'type': 'mrkdwn', 'text': '*The Cellar* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176701'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwQMnZd5Vc6dCN'}], 'action_id': '2iWW'}}, {'type': 'section', 'block_id': 'GLM', 'text': {'type': 'mrkdwn', 'text': '1 · comp-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': '7N4', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641858187.197000
+channel_type  :  channel
+message_hello!
+the msg was New Customer: The Cellar
+New Customer: The Cellar
+client_msg_id  :  5c3d473f-8430-4ea4-97ba-1f6166c471bc
+type  :  message
+text  :  ENDING THE DAY STRONG!!!
+user  :  UT55ETM6J
+ts  :  1641859376.197500
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '=Xi', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'ENDING THE DAY STRONG!!!'}]}]}]
+thread_ts  :  1641858257.197100
+channel  :  C07TKEQ06
+event_ts  :  1641859376.197500
+channel_type  :  channel
+message_hello!
+the msg was ENDING THE DAY STRONG!!!
+ENDING THE DAY STRONG!!!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: At Home Kitchen, LLC
+ts  :  1641860963.197900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'f6gV', 'text': {'type': 'mrkdwn', 'text': '*At Home Kitchen, LLC* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176867'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwR7blVVjJVpNH'}], 'action_id': 'uhs5'}}, {'type': 'section', 'block_id': 'ukW', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '/Eu4', 'elements': [{'type': 'mrkdwn', 'text': '+$17.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'yZP5', 'text': {'type': 'mrkdwn', 'text': 'Culver City  CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641860963.197900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: At Home Kitchen, LLC
+New Customer: At Home Kitchen, LLC
+type  :  message
+subtype  :  bot_message
+text  :  Hibachio (7d4ffbd32ada1ce26b48aa48333ab952) changed their plan
+ts  :  1641863645.198100
+bot_id  :  B017H9RCQR2
+blocks  :  [{'type': 'section', 'block_id': 'GD6x', 'text': {'type': 'mrkdwn', 'text': '*Hibachio (7d4ffbd32ada1ce26b48aa48333ab952)* changed their plan \n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/20564'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_BgmvEDReWqLhCZ'}], 'action_id': 'FvoN'}}, {'type': 'section', 'block_id': 'Gfu3', 'text': {'type': 'mrkdwn', 'text': '*2 · gourmet-v2-usd → gourmet-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'bQ=', 'elements': [{'type': 'mrkdwn', 'text': '-$30.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641863645.198100
+channel_type  :  channel
+message_hello!
+the msg was Hibachio (7d4ffbd32ada1ce26b48aa48333ab952) changed their plan
+Hibachio (7d4ffbd32ada1ce26b48aa48333ab952) changed their plan
+type  :  message
+subtype  :  bot_message
+text  :  The Oxford Hills purchased an addon!
+ts  :  1641865737.198600
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'UIjL', 'text': {'type': 'mrkdwn', 'text': '*The Oxford Hills* purchased an addon! :jace_muggli:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/132690'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JSYqrLlJg9Gjfo'}], 'action_id': '2ee'}}, {'type': 'section', 'block_id': 'Lv9', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-annual*\n\nother subscriptions:\n1 · works-v2-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'siIig', 'elements': [{'type': 'mrkdwn', 'text': '+$9.39 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641865737.198600
+channel_type  :  channel
+message_hello!
+the msg was The Oxford Hills purchased an addon!
+The Oxford Hills purchased an addon!
+⚡️ Bolt app is running!
+type  :  message
+subtype  :  bot_message
+text  :  Average Joe's - MJ Sancus cancelled their account
+ts  :  1641912335.200900
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'ONN', 'text': {'type': 'mrkdwn', 'text': "*Average Joe's - MJ Sancus* cancelled their account :aron_bariagabre:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/31666'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_DpiUzxkLWAnrC2'}], 'action_id': 'xDu'}}, {'type': 'section', 'block_id': '2FxVB', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'wUAfk', 'elements': [{'type': 'mrkdwn', 'text': '-$43.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641912335.200900
+channel_type  :  channel
+message_hello!
+the msg was Average Joe's - MJ Sancus cancelled their account
+Average Joe's - MJ Sancus cancelled their account
+client_msg_id  :  45821f42-f39a-465d-8b52-6a3f95876fe3
+type  :  message
+text  :  Location closed - SC
+user  :  U025UJ3TLL8
+ts  :  1641912354.201000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'YB8L', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Location closed - SC'}]}]}]
+thread_ts  :  1641912335.200900
+channel  :  C07TKEQ06
+event_ts  :  1641912354.201000
+channel_type  :  channel
+message_hello!
+the msg was Location closed - SC
+Location closed - SC
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Orange Leaf Tiverton Way
+ts  :  1641913499.201400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '3z6', 'text': {'type': 'mrkdwn', 'text': '*Orange Leaf Tiverton Way* just subscribed! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177911'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwfE9PFYTtvEFL'}], 'action_id': 'juP'}}, {'type': 'section', 'block_id': 'nB6xE', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'IMC', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '04Z', 'text': {'type': 'mrkdwn', 'text': 'Lexington KY, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641913499.201400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Orange Leaf Tiverton Way
+New Customer: Orange Leaf Tiverton Way
+client_msg_id  :  a9f38735-196c-4778-848f-3b9f05268f37
+type  :  message
+text  :  Brew Revolution
+user  :  UJAGGMMMH
+ts  :  1641913589.201600
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'OxlC', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Brew Revolution'}]}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641913589.201600
+channel_type  :  channel
+message_hello!
+the msg was Brew Revolution
+Brew Revolution
+handle_message_events!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Lititz Springs Inn & Spa
+ts  :  1641916170.206100
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'PJ2qK', 'text': {'type': 'mrkdwn', 'text': '*Lititz Springs Inn &amp; Spa* just subscribed! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/175113'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwfxNEHoOTBunl'}], 'action_id': '5GK'}}, {'type': 'section', 'block_id': 'x3Sg', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: GETSTARTED_1MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'bXl0=', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'c91', 'text': {'type': 'mrkdwn', 'text': 'LITITZ PA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641916170.206100
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Lititz Springs Inn & Spa
+New Customer: Lititz Springs Inn & Spa
+type  :  message
+subtype  :  bot_message
+text  :  Lititz Springs Inn & Spa purchased an addon!
+ts  :  1641916180.206200
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'ZEBHM', 'text': {'type': 'mrkdwn', 'text': '*Lititz Springs Inn &amp; Spa* purchased an addon! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/175113'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwfxNEHoOTBunl'}], 'action_id': 'TOB'}}, {'type': 'section', 'block_id': '=4M', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-usd*\n\nother subscriptions:\n1 · works-v2-usd\nCoupon: GETSTARTED_1MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'aAvjG', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641916180.206200
+channel_type  :  channel
+message_hello!
+the msg was Lititz Springs Inn & Spa purchased an addon!
+Lititz Springs Inn & Spa purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Spinoza's Pizza
+ts  :  1641916809.209000
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'F6A', 'text': {'type': 'mrkdwn', 'text': "*Spinoza's Pizza* just subscribed! :kelly_fitzpatrick:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179697'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwg7LGEvt2Od0E'}], 'action_id': 'jQFN'}}, {'type': 'section', 'block_id': 'HUyy', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'gNEpr', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'e/f9s', 'text': {'type': 'mrkdwn', 'text': 'Beavercreek OH, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641916809.209000
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Spinoza's Pizza
+New Customer: Spinoza's Pizza
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Beer Church Brewing Co.
+ts  :  1641916854.209100
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'YuKZ', 'text': {'type': 'mrkdwn', 'text': '*Beer Church Brewing Co.* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177930'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwg8ulc00l5VBG'}], 'action_id': 'JGA'}}, {'type': 'section', 'block_id': 'L8w', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Y9Pj', 'elements': [{'type': 'mrkdwn', 'text': '+$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'FrmC', 'text': {'type': 'mrkdwn', 'text': 'New Buffalo  MI, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641916854.209100
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Beer Church Brewing Co.
+New Customer: Beer Church Brewing Co.
+client_msg_id  :  e86c5342-7eef-44d2-973a-79e7d9dc40bf
+type  :  message
+text  :  <@U02JELHA52S> Win back from the cancellation list!
+user  :  U020K8Q9ABF
+ts  :  1641916900.209200
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '2W40', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U02JELHA52S'}, {'type': 'text', 'text': ' Win back from the cancellation list!'}]}]}]
+thread_ts  :  1641916809.209000
+channel  :  C07TKEQ06
+event_ts  :  1641916900.209200
+channel_type  :  channel
+message_hello!
+the msg was <@U02JELHA52S> Win back from the cancellation list!
+<@U02JELHA52S> Win back from the cancellation list!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: The Grove
+ts  :  1641917146.209500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'WQws+', 'text': {'type': 'mrkdwn', 'text': '*The Grove* just subscribed! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177214'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwgDl8R6rzq9rc'}], 'action_id': 'OukU'}}, {'type': 'section', 'block_id': '5lwO', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Zfp0', 'elements': [{'type': 'mrkdwn', 'text': '+$39.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'VGk', 'text': {'type': 'mrkdwn', 'text': 'DELTA CO, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641917146.209500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: The Grove
+New Customer: The Grove
+client_msg_id  :  8cb928c0-b977-47df-aed9-3aaf001a3061
+type  :  message
+text  :  <@U023CT97GDV> This is your location add :tada:
+user  :  UTLQ5NRJB
+ts  :  1641917237.209700
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '6/9A', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U023CT97GDV'}, {'type': 'text', 'text': ' This is your location add '}, {'type': 'emoji', 'name': 'tada'}]}]}]
+thread_ts  :  1641840749.181000
+channel  :  C07TKEQ06
+event_ts  :  1641917237.209700
+channel_type  :  channel
+message_hello!
+the msg was <@U023CT97GDV> This is your location add :tada:
+<@U023CT97GDV> This is your location add :tada:
+handle_message_events!
+client_msg_id  :  0b551506-2d31-40f5-a22d-c3d2750963c8
+type  :  message
+text  :  Thanks Emma!
+user  :  U023CT97GDV
+ts  :  1641917417.210200
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '8f+', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Thanks Emma!'}]}]}]
+thread_ts  :  1641840749.181000
+channel  :  C07TKEQ06
+event_ts  :  1641917417.210200
+channel_type  :  channel
+message_hello!
+the msg was Thanks Emma!
+Thanks Emma!
+type  :  message
+subtype  :  bot_message
+text  :  New Location for Relic Inc.
+ts  :  1641919417.210500
+bot_id  :  B016WBNJ7P1
+blocks  :  [{'type': 'section', 'block_id': 'iEq9', 'text': {'type': 'mrkdwn', 'text': '*Relic Inc.* added a location! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/170604'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KbnTJNoWsol762'}], 'action_id': 'G/tB'}}, {'type': 'section', 'block_id': 'o0dFt', 'text': {'type': 'mrkdwn', 'text': '1 → 2 works-v2-usd\n1 → 2 task-management-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'rnYr', 'elements': [{'type': 'mrkdwn', 'text': '+$89.98 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641919417.210500
+channel_type  :  channel
+message_hello!
+the msg was New Location for Relic Inc.
+New Location for Relic Inc.
+type  :  message
+subtype  :  bot_message
+text  :  None deleted a location
+ts  :  1641919457.210700
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'xWfbN', 'text': {'type': 'mrkdwn', 'text': '*None* deleted a location \n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_HU5LxNvzPl4xuk'}], 'action_id': '7PMGZ'}}, {'type': 'section', 'block_id': 'X2WRi', 'text': {'type': 'mrkdwn', 'text': '5 → 4 works-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'mybT', 'elements': [{'type': 'mrkdwn', 'text': '-$76.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641919457.210700
+channel_type  :  channel
+message_hello!
+the msg was None deleted a location
+None deleted a location
+client_msg_id  :  b3396c16-22da-490d-93d3-3719b26b08b7
+type  :  message
+text  :  Nice <@U01DU8ADERG>! Do you know if they're bringing on all 7 locs this month?
+user  :  UQY82BZ9R
+ts  :  1641919928.210900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'uap4r', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Nice '}, {'type': 'user', 'user_id': 'U01DU8ADERG'}, {'type': 'text', 'text': "! Do you know if they're bringing on all 7 locs this month?"}]}]}]
+thread_ts  :  1641919417.210500
+channel  :  C07TKEQ06
+event_ts  :  1641919928.210900
+channel_type  :  channel
+message_hello!
+the msg was Nice <@U01DU8ADERG>! Do you know if they're bringing on all 7 locs this month?
+Nice <@U01DU8ADERG>! Do you know if they're bringing on all 7 locs this month?
+type  :  message
+subtype  :  bot_message
+text  :  Ghost Isle Brewery changed their plan
+ts  :  1641920192.211100
+bot_id  :  B017H9RCQR2
+blocks  :  [{'type': 'section', 'block_id': 'HwIw', 'text': {'type': 'mrkdwn', 'text': '*Ghost Isle Brewery* changed their plan \n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/44106'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Emy5h8end1Ti3s'}], 'action_id': 'JNH'}}, {'type': 'section', 'block_id': 'KN4', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → works-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'k4uw7', 'elements': [{'type': 'mrkdwn', 'text': '-$7.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641920192.211100
+channel_type  :  channel
+message_hello!
+the msg was Ghost Isle Brewery changed their plan
+Ghost Isle Brewery changed their plan
+type  :  message
+subtype  :  bot_message
+text  :  Chick-Fil-A Twelve Oaks cancelled their account
+ts  :  1641920227.211200
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'D9=d', 'text': {'type': 'mrkdwn', 'text': '*Chick-Fil-A Twelve Oaks* cancelled their account :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/165031'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KUcYFIqI3qD2Ox'}], 'action_id': 'UGvr'}}, {'type': 'section', 'block_id': 'OPtJ', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Cwj4', 'elements': [{'type': 'mrkdwn', 'text': '-$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'dDc5', 'text': {'type': 'mrkdwn', 'text': "Admin pushed to get management on board with using 7shifts, but they wouldn't bite. Did not respond to offer of coupon or training. - EH\n", 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641920227.211200
+channel_type  :  channel
+message_hello!
+the msg was Chick-Fil-A Twelve Oaks cancelled their account
+Chick-Fil-A Twelve Oaks cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Racer
+ts  :  1641920583.211400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'WW9', 'text': {'type': 'mrkdwn', 'text': '*Racer* just subscribed! :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179712'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwh8l7k2tTtUZP'}], 'action_id': 'i4qSK'}}, {'type': 'section', 'block_id': 'UbLY', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Le5', 'elements': [{'type': 'mrkdwn', 'text': '+$19.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '2O+', 'text': {'type': 'mrkdwn', 'text': 'Seattle NY, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641920583.211400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Racer
+New Customer: Racer
+client_msg_id  :  348b9527-996a-4e51-8c78-c542048ee641
+type  :  message
+text  :  I haven't spoken with them since Nov. I'll reach out and see what's what.
+user  :  U01DU8ADERG
+ts  :  1641920817.211500
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'B9L0', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': "I haven't spoken with them since Nov. I'll reach out and see what's what."}]}]}]
+thread_ts  :  1641919417.210500
+channel  :  C07TKEQ06
+event_ts  :  1641920817.211500
+channel_type  :  channel
+message_hello!
+the msg was I haven't spoken with them since Nov. I'll reach out and see what's what.
+I haven't spoken with them since Nov. I'll reach out and see what's what.
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Jefferson's - North Kansas City
+ts  :  1641922271.212100
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'cwct', 'text': {'type': 'mrkdwn', 'text': "*Jefferson's - North Kansas City* just subscribed! :raised_hands:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177026'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwharqAFSHNAeH'}], 'action_id': 'iHs'}}, {'type': 'section', 'block_id': 'pmG', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'HXb', 'elements': [{'type': 'mrkdwn', 'text': '+$43.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'gcpU', 'text': {'type': 'mrkdwn', 'text': 'KANSAS CITY MO, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641922271.212100
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Jefferson's - North Kansas City
+New Customer: Jefferson's - North Kansas City
+client_msg_id  :  06fb1b47-a481-4b1a-9a75-345002dcc66b
+type  :  message
+text  :  Anddd now I'm chating with them in Intercom. Will let you know!
+user  :  U01DU8ADERG
+ts  :  1641922347.212200
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'sK4lc', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': "Anddd now I'm chating with them in Intercom. Will let you know!"}]}]}]
+thread_ts  :  1641919417.210500
+channel  :  C07TKEQ06
+event_ts  :  1641922347.212200
+channel_type  :  channel
+message_hello!
+the msg was Anddd now I'm chating with them in Intercom. Will let you know!
+Anddd now I'm chating with them in Intercom. Will let you know!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: 99 Franklin
+ts  :  1641922525.212400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'wLx0D', 'text': {'type': 'mrkdwn', 'text': '*99 Franklin* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176440'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwhfLfCS0JhxPW'}], 'action_id': 'RaP'}}, {'type': 'section', 'block_id': 'nx5D', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'rwPt/', 'elements': [{'type': 'mrkdwn', 'text': '+$17.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'TVGp', 'text': {'type': 'mrkdwn', 'text': 'astoria NY, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641922525.212400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: 99 Franklin
+New Customer: 99 Franklin
+type  :  message
+subtype  :  bot_message
+text  :  Tuxedo Hospitality changed their plan
+ts  :  1641923206.212500
+bot_id  :  B017H9RCQR2
+blocks  :  [{'type': 'section', 'block_id': '1zNO', 'text': {'type': 'mrkdwn', 'text': '*Tuxedo Hospitality* changed their plan :sage_usher:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/89097'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_HUSBD6Rv0FvL3O'}], 'action_id': 'TRwlo'}}, {'type': 'section', 'block_id': 'wT3r', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → works-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'naSi', 'elements': [{'type': 'mrkdwn', 'text': '-$7.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641923206.212500
+channel_type  :  channel
+message_hello!
+the msg was Tuxedo Hospitality changed their plan
+Tuxedo Hospitality changed their plan
+type  :  message
+subtype  :  bot_message
+text  :  The Tyger (Chinese Tuxedo) changed their plan
+ts  :  1641923242.212600
+bot_id  :  B017H9RCQR2
+blocks  :  [{'type': 'section', 'block_id': 'n/9', 'text': {'type': 'mrkdwn', 'text': '*The Tyger (Chinese Tuxedo)* changed their plan :sage_usher:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/89097'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_ICzUHChVjjKaqZ'}], 'action_id': 's5hX'}}, {'type': 'section', 'block_id': '1/R6I', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → works-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'REMHs', 'elements': [{'type': 'mrkdwn', 'text': '-$7.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641923242.212600
+channel_type  :  channel
+message_hello!
+the msg was The Tyger (Chinese Tuxedo) changed their plan
+The Tyger (Chinese Tuxedo) changed their plan
+type  :  message
+subtype  :  bot_message
+text  :  Tuxedo Hospitality (Peachy's) changed their plan
+ts  :  1641923279.212700
+bot_id  :  B017H9RCQR2
+blocks  :  [{'type': 'section', 'block_id': 'Gnzg', 'text': {'type': 'mrkdwn', 'text': "*Tuxedo Hospitality (Peachy's)* changed their plan :sage_usher:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/89097'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_K0ZiLLCQK5va7o'}], 'action_id': 'DHLp'}}, {'type': 'section', 'block_id': 'afltP', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → works-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'JIOE', 'elements': [{'type': 'mrkdwn', 'text': '-$7.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641923279.212700
+channel_type  :  channel
+message_hello!
+the msg was Tuxedo Hospitality (Peachy's) changed their plan
+Tuxedo Hospitality (Peachy's) changed their plan
+type  :  message
+subtype  :  bot_message
+text  :  Fetch / Las Paletas cancelled their account
+ts  :  1641923520.212900
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'Qck5', 'text': {'type': 'mrkdwn', 'text': '*Fetch / Las Paletas* cancelled their account :evan_ross:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/143057'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Joes2oYBx7bXon'}], 'action_id': 't7R4'}}, {'type': 'section', 'block_id': '3yCZI', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'mL3B', 'elements': [{'type': 'mrkdwn', 'text': '-$19.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'D8/pB', 'text': {'type': 'mrkdwn', 'text': 'Business is closing down - AD\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641923520.212900
+channel_type  :  channel
+message_hello!
+the msg was Fetch / Las Paletas cancelled their account
+Fetch / Las Paletas cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  Hells Kitchen Hospitality Group (The House of Brews) cancelled their account
+ts  :  1641923685.213000
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'Hxv', 'text': {'type': 'mrkdwn', 'text': '*Hells Kitchen Hospitality Group (The House of Brews)* cancelled their account :sage_usher:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/107974'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_I1JmZaKQu3Cmez'}], 'action_id': 'Bdeq'}}, {'type': 'section', 'block_id': 'Uycf', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n1 · task-management-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'JssK', 'elements': [{'type': 'mrkdwn', 'text': '-$89.98 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641923685.213000
+channel_type  :  channel
+message_hello!
+the msg was Hells Kitchen Hospitality Group (The House of Brews) cancelled their account
+Hells Kitchen Hospitality Group (The House of Brews) cancelled their account
+client_msg_id  :  8617028c-43e9-4c46-ac91-427336a62cea
+type  :  message
+text  :  Location is closed and reopening with new concept in 6 months. They'll start fresh with a new location at that point. -MF
+user  :  U01DU8ADERG
+ts  :  1641923712.213100
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'YVBy', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': "Location is closed and reopening with new concept in 6 months. They'll start fresh with a new location at that point. -MF"}]}]}]
+thread_ts  :  1641923685.213000
+channel  :  C07TKEQ06
+event_ts  :  1641923712.213100
+channel_type  :  channel
+message_hello!
+the msg was Location is closed and reopening with new concept in 6 months. They'll start fresh with a new location at that point. -MF
+Location is closed and reopening with new concept in 6 months. They'll start fresh with a new location at that point. -MF
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Craft Concepts Group
+ts  :  1641924767.213500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'LJZLu', 'text': {'type': 'mrkdwn', 'text': '*Craft Concepts Group* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178511'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwiGW2vjjwtGul'}], 'action_id': '+kGsY'}}, {'type': 'section', 'block_id': 'zpv4d', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'gvD', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'irTS', 'text': {'type': 'mrkdwn', 'text': 'Ivyland  PA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641924767.213500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Craft Concepts Group
+New Customer: Craft Concepts Group
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: AFC - Southwest (790 - Denver)
+ts  :  1641924929.213600
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'INa', 'text': {'type': 'mrkdwn', 'text': '*AFC - Southwest (790 - Denver)* just subscribed! :raised_hands:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwiJGav4afrVgw'}], 'action_id': 'p+P'}}, {'type': 'section', 'block_id': 'OUkgk', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-annual-usd\n1 · log-book-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'kFbu', 'elements': [{'type': 'mrkdwn', 'text': '+$53.49 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '2kg9g', 'text': {'type': 'mrkdwn', 'text': 'SPRINGFIELD MO, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641924929.213600
+channel_type  :  channel
+message_hello!
+the msg was New Customer: AFC - Southwest (790 - Denver)
+New Customer: AFC - Southwest (790 - Denver)
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Flora and Fauna
+ts  :  1641925392.213900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '/nof', 'text': {'type': 'mrkdwn', 'text': '*Flora and Fauna* just subscribed! :natalie_taylor:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/174578'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwiQSTEScUGodh'}], 'action_id': 'l1as'}}, {'type': 'section', 'block_id': 'w6wx', 'text': {'type': 'mrkdwn', 'text': '1 · comp-v3-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'JNLDf', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641925392.213900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Flora and Fauna
+New Customer: Flora and Fauna
+type  :  message
+subtype  :  bot_message
+text  :  Hook & Reel Cajun Seafood and Bar cancelled their account
+ts  :  1641925456.214000
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'Nur', 'text': {'type': 'mrkdwn', 'text': '*Hook &amp; Reel Cajun Seafood and Bar* cancelled their account :aron_bariagabre:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/123606'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Ix9hp5CX270Q7z'}], 'action_id': 'Zcg66'}}, {'type': 'section', 'block_id': 'pJ04X', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'FOz', 'elements': [{'type': 'mrkdwn', 'text': '-$39.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'MYi', 'text': {'type': 'mrkdwn', 'text': 'Location Closed - AD\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641925456.214000
+channel_type  :  channel
+message_hello!
+the msg was Hook & Reel Cajun Seafood and Bar cancelled their account
+Hook & Reel Cajun Seafood and Bar cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: VC Tiffin (VC Attica)
+ts  :  1641925630.214100
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'K0moa', 'text': {'type': 'mrkdwn', 'text': '*VC Tiffin (VC Attica)* just subscribed! :jace_muggli:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwiUzfI1Z5srus'}], 'action_id': 'UX0'}}, {'type': 'section', 'block_id': '9cu', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-usd\nCoupon: 1MONTH_FREE_CSM_', 'verbatim': False}}, {'type': 'context', 'block_id': 'wI8', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Mtl', 'text': {'type': 'mrkdwn', 'text': 'ATTICA OH, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641925630.214100
+channel_type  :  channel
+message_hello!
+the msg was New Customer: VC Tiffin (VC Attica)
+New Customer: VC Tiffin (VC Attica)
+type  :  message
+subtype  :  bot_message
+text  :  New Location for AFC - KC/JNWA
+ts  :  1641925709.214300
+bot_id  :  B016WBNJ7P1
+blocks  :  [{'type': 'section', 'block_id': 'It2', 'text': {'type': 'mrkdwn', 'text': '*AFC - KC/JNWA* added a location! :raised_hands:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/30883'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_DL7HHLARaD4roR'}], 'action_id': 'yW07r'}}, {'type': 'section', 'block_id': 'IYfq2', 'text': {'type': 'mrkdwn', 'text': '13 → 14 entree-v5-annual-usd\n13 → 14 log-book-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Ytb67', 'elements': [{'type': 'mrkdwn', 'text': '+$53.49 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641925709.214300
+channel_type  :  channel
+message_hello!
+the msg was New Location for AFC - KC/JNWA
+New Location for AFC - KC/JNWA
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Acid League
+ts  :  1641926649.215000
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'O8JCX', 'text': {'type': 'mrkdwn', 'text': '*Acid League* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178626'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwil0QFllRceZA'}], 'action_id': 'mXvY6'}}, {'type': 'section', 'block_id': 'c04l', 'text': {'type': 'mrkdwn', 'text': '2 · works-v2\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'YPq/p', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Lvm', 'text': {'type': 'mrkdwn', 'text': 'DUNDAS ON, CA', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641926649.215000
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Acid League
+New Customer: Acid League
+client_msg_id  :  0856a0c9-1529-463c-b9c4-328817ce5bd0
+type  :  message
+text  :  This the non-alc wine vendor? <@UMQFYHY07>
+user  :  U01DU8ADERG
+ts  :  1641926723.215200
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'r4wN', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'This the non-alc wine vendor? '}, {'type': 'user', 'user_id': 'UMQFYHY07'}]}]}]
+thread_ts  :  1641926649.215000
+channel  :  C07TKEQ06
+event_ts  :  1641926723.215200
+channel_type  :  channel
+message_hello!
+the msg was This the non-alc wine vendor? <@UMQFYHY07>
+This the non-alc wine vendor? <@UMQFYHY07>
+client_msg_id  :  f3c1f546-47bf-4f88-8940-08a343317c37
+type  :  message
+text  :  Yup, I think they have different vinegars too-- I was planning to potentially place an order! Haha
+user  :  UMQFYHY07
+ts  :  1641926778.215400
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '6SHBn', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Yup, I think they have different vinegars too-- I was planning to potentially place an order! Haha'}]}]}]
+thread_ts  :  1641926649.215000
+channel  :  C07TKEQ06
+event_ts  :  1641926778.215400
+channel_type  :  channel
+message_hello!
+the msg was Yup, I think they have different vinegars too-- I was planning to potentially place an order! Haha
+Yup, I think they have different vinegars too-- I was planning to potentially place an order! Haha
+type  :  message
+subtype  :  bot_message
+text  :  Made in Mexico downgraded their plan
+ts  :  1641926848.215600
+bot_id  :  B017H9Q1Z9S
+blocks  :  [{'type': 'section', 'block_id': 'SCn', 'text': {'type': 'mrkdwn', 'text': '*Made in Mexico* downgraded their plan :claudia_adragna:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/81132'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_GVRHACbrP1HP8l'}], 'action_id': 'ne/pv'}}, {'type': 'section', 'block_id': 'kYo', 'text': {'type': 'mrkdwn', 'text': '*1 · gourmet-v2 → works-v2*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'w4iz', 'elements': [{'type': 'mrkdwn', 'text': '-$58.77 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641926848.215600
+channel_type  :  channel
+message_hello!
+the msg was Made in Mexico downgraded their plan
+Made in Mexico downgraded their plan
+client_msg_id  :  f2deb6e7-23cd-49fa-93dd-4f90c019700b
+type  :  message
+text  :  Great products! I had some last spring. The drinking vinegars are good for working out and replenishing electrolytes. I think the original recipe for Gatorade is actually based on a drinking vinegar!
+user  :  U01DU8ADERG
+ts  :  1641926864.215700
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'AyvJ', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Great products! I had some last spring. The drinking vinegars are good for working out and replenishing electrolytes. I think the original recipe for Gatorade is actually based on a drinking vinegar!'}]}]}]
+thread_ts  :  1641926649.215000
+channel  :  C07TKEQ06
+event_ts  :  1641926864.215700
+channel_type  :  channel
+message_hello!
+the msg was Great products! I had some last spring. The drinking vinegars are good for working out and replenishing electrolytes. I think the original recipe for Gatorade is actually based on a drinking vinegar!
+Great products! I had some last spring. The drinking vinegars are good for working out and replenishing electrolytes. I think the original recipe for Gatorade is actually based on a drinking vinegar!
+client_msg_id  :  c9caf745-55d2-45f2-b404-9579b7f749e9
+type  :  message
+text  :  I have to give them a try soon then!
+user  :  UMQFYHY07
+ts  :  1641927033.215900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '7Z2', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'I have to give them a try soon then!'}]}]}]
+thread_ts  :  1641926649.215000
+channel  :  C07TKEQ06
+event_ts  :  1641927033.215900
+channel_type  :  channel
+message_hello!
+the msg was I have to give them a try soon then!
+I have to give them a try soon then!
+type  :  message
+subtype  :  bot_message
+text  :  Splitlog Coffee purchased an addon!
+ts  :  1641927044.216200
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'uR4oJ', 'text': {'type': 'mrkdwn', 'text': '*Splitlog Coffee* purchased an addon! :john_traboulsi:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/171167'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KcpV9fMPkYpQal'}], 'action_id': 'd/E'}}, {'type': 'section', 'block_id': 'B7RC', 'text': {'type': 'mrkdwn', 'text': '*2 · tip-pooling-v1-30max-usd*\n\nother subscriptions:\n2 · works-v2-usd\n2 · task-management-usd\n2 · operations-overview-usd\nCoupon: 2021_4MO_PARTNERSHIPS', 'verbatim': False}}, {'type': 'context', 'block_id': 'c25', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641927044.216200
+channel_type  :  channel
+message_hello!
+the msg was Splitlog Coffee purchased an addon!
+Splitlog Coffee purchased an addon!
+client_msg_id  :  f1862cef-5870-42aa-949c-902885a3d04f
+type  :  message
+text  :  KELLY!! This is so amazing to see! What a great list to keep going through! <@U020K8Q9ABF>
+user  :  U02JELHA52S
+ts  :  1641927304.216800
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '6znyX', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'KELLY!! This is so amazing to see! What a great list to keep going through! '}, {'type': 'user', 'user_id': 'U020K8Q9ABF'}]}]}]
+thread_ts  :  1641916809.209000
+channel  :  C07TKEQ06
+event_ts  :  1641927304.216800
+channel_type  :  channel
+message_hello!
+the msg was KELLY!! This is so amazing to see! What a great list to keep going through! <@U020K8Q9ABF>
+KELLY!! This is so amazing to see! What a great list to keep going through! <@U020K8Q9ABF>
+type  :  message
+subtype  :  bot_message
+text  :  New Location for Dewey Beer Co
+ts  :  1641927485.217000
+bot_id  :  B016WBNJ7P1
+blocks  :  [{'type': 'section', 'block_id': 'UzDF', 'text': {'type': 'mrkdwn', 'text': '*Dewey Beer Co* added a location! :kunaal_chopra:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/57123'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_FW02EIb6cvqHRL'}], 'action_id': '0h7'}}, {'type': 'section', 'block_id': 'lTQd', 'text': {'type': 'mrkdwn', 'text': '2 → 3 entree-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'qQd', 'elements': [{'type': 'mrkdwn', 'text': '+$43.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641927485.217000
+channel_type  :  channel
+message_hello!
+the msg was New Location for Dewey Beer Co
+New Location for Dewey Beer Co
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Tally Fish House
+ts  :  1641928429.217300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'HAv7S', 'text': {'type': 'mrkdwn', 'text': '*Tally Fish House* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179601'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwjFiaa90NY7Iw'}], 'action_id': 'B7X'}}, {'type': 'section', 'block_id': '+UDBr', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'U+f', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '/qTM+', 'text': {'type': 'mrkdwn', 'text': 'TALLAHASSEE FL, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641928429.217300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Tally Fish House
+New Customer: Tally Fish House
+type  :  message
+subtype  :  bot_message
+text  :  SAMs (sams) deleted a location
+ts  :  1641928694.217400
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': '1x1', 'text': {'type': 'mrkdwn', 'text': '*SAMs (sams)* deleted a location \n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/7007'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_7BrsBWQYGbu5IP'}], 'action_id': 'wUM3'}}, {'type': 'section', 'block_id': 'ktgp', 'text': {'type': 'mrkdwn', 'text': '2 → 1 entree-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '7Rirv', 'elements': [{'type': 'mrkdwn', 'text': '-$43.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641928694.217400
+channel_type  :  channel
+message_hello!
+the msg was SAMs (sams) deleted a location
+SAMs (sams) deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Ziggy's on Main
+ts  :  1641928828.217500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'bYD', 'text': {'type': 'mrkdwn', 'text': "*Ziggy's on Main* just subscribed! :raised_hands:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177341'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwjMWWrSwv3m9s'}], 'action_id': 'VOy'}}, {'type': 'section', 'block_id': 'FEq6', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'ylFub', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'FCR', 'text': {'type': 'mrkdwn', 'text': 'Stillwater MN, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641928828.217500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Ziggy's on Main
+New Customer: Ziggy's on Main
+type  :  message
+subtype  :  bot_message
+text  :  Mi Pueblo Mexican Grill cancelled their account
+ts  :  1641928979.217600
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': '0QI', 'text': {'type': 'mrkdwn', 'text': '*Mi Pueblo Mexican Grill* cancelled their account :claudia_adragna:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/116862'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_IoKOonaO0gXfgM'}], 'action_id': 'jaCh'}}, {'type': 'section', 'block_id': 'MkVH', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'ixBD', 'elements': [{'type': 'mrkdwn', 'text': '-$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'IlHR', 'text': {'type': 'mrkdwn', 'text': '"I am no longer needing this service anymore". Would not give any other insight into why they were leaving. - AD\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641928979.217600
+channel_type  :  channel
+message_hello!
+the msg was Mi Pueblo Mexican Grill cancelled their account
+Mi Pueblo Mexican Grill cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  The SEA Crab House & Thai Me Up cancelled their account
+ts  :  1641929972.217800
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'VH5ZM', 'text': {'type': 'mrkdwn', 'text': '*The SEA Crab House &amp; Thai Me Up* cancelled their account :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/153494'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_K2G0uYDre3Z0Tc'}], 'action_id': '/sLaS'}}, {'type': 'section', 'block_id': 'uG6P', 'text': {'type': 'mrkdwn', 'text': '4 · works-v2-usd\n4 · task-management-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'dw7', 'elements': [{'type': 'mrkdwn', 'text': '-$359.92 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'T8t', 'text': {'type': 'mrkdwn', 'text': 'New inventory management software came with scheduling functions - refused coupon or training. - EH\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641929972.217800
+channel_type  :  channel
+message_hello!
+the msg was The SEA Crab House & Thai Me Up cancelled their account
+The SEA Crab House & Thai Me Up cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Sahm's Companies Inc.
+ts  :  1641930770.218400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '3fmn', 'text': {'type': 'mrkdwn', 'text': "*Sahm's Companies Inc.* just subscribed! :raised_hands:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KV0gaqcOFHknCA'}], 'action_id': 'Hhk'}}, {'type': 'section', 'block_id': 'OnPN', 'text': {'type': 'mrkdwn', 'text': '17 · works-usd\n17 · operations-overview-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'ZDA', 'elements': [{'type': 'mrkdwn', 'text': '+$1427.66 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'GMQe', 'text': {'type': 'mrkdwn', 'text': 'FISHERS IN, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641930770.218400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Sahm's Companies Inc.
+New Customer: Sahm's Companies Inc.
+client_msg_id  :  e6e93ca2-6816-4a6b-8e43-1a220ce20d12
+type  :  message
+text  :  <@U01BSDQP3D3> is this you?
+user  :  U6VGD3HKQ
+ts  :  1641930793.218700
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'Rx3Em', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U01BSDQP3D3'}, {'type': 'text', 'text': ' is this you?'}]}]}]
+thread_ts  :  1641930770.218400
+channel  :  C07TKEQ06
+event_ts  :  1641930793.218700
+channel_type  :  channel
+message_hello!
+the msg was <@U01BSDQP3D3> is this you?
+<@U01BSDQP3D3> is this you?
+client_msg_id  :  e15e6eab-9e48-480a-a3b0-12b0e45a78ab
+type  :  message
+text  :  <@U6VGD3HKQ> - yes finally got their billing info in! ACH for 17 Locations (was supposed to be 15 but they added two additional). Billing date is still set for first PAID invoice on Feb 28 (as per your info in SF/order form)
+user  :  U01BSDQP3D3
+ts  :  1641930894.219400
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'YsSp8', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U6VGD3HKQ'}, {'type': 'text', 'text': ' - yes finally got their billing info in! ACH for 17 Locations (was supposed to be 15 but they added two additional). Billing date is still set for first PAID invoice on Feb 28 (as per your info in SF/order form)'}]}]}]
+thread_ts  :  1641930770.218400
+channel  :  C07TKEQ06
+event_ts  :  1641930894.219400
+channel_type  :  channel
+message_hello!
+the msg was <@U6VGD3HKQ> - yes finally got their billing info in! ACH for 17 Locations (was supposed to be 15 but they added two additional). Billing date is still set for first PAID invoice on Feb 28 (as per your info in SF/order form)
+<@U6VGD3HKQ> - yes finally got their billing info in! ACH for 17 Locations (was supposed to be 15 but they added two additional). Billing date is still set for first PAID invoice on Feb 28 (as per your info in SF/order form)
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Bodevi
+ts  :  1641930937.219600
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '4DLUq', 'text': {'type': 'mrkdwn', 'text': '*Bodevi* just subscribed! :john_traboulsi:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179756'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwjvz6lpsXsI9T'}], 'action_id': 'WzfTD'}}, {'type': 'section', 'block_id': 'n/A', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'oQS6', 'elements': [{'type': 'mrkdwn', 'text': '+$17.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'ugDZ', 'text': {'type': 'mrkdwn', 'text': 'North Hills CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641930937.219600
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Bodevi
+New Customer: Bodevi
+client_msg_id  :  711383dd-d010-45b7-b73f-4fc069ff98fc
+type  :  message
+text  :  Congrats <@U01BSDQP3D3>! Keep up the great work :slightly_smiling_face:
+user  :  U6VGD3HKQ
+ts  :  1641931144.219900
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '0=4fv', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Congrats '}, {'type': 'user', 'user_id': 'U01BSDQP3D3'}, {'type': 'text', 'text': '! Keep up the great work '}, {'type': 'emoji', 'name': 'slightly_smiling_face'}]}]}]
+thread_ts  :  1641930770.218400
+channel  :  C07TKEQ06
+event_ts  :  1641931144.219900
+channel_type  :  channel
+message_hello!
+the msg was Congrats <@U01BSDQP3D3>! Keep up the great work :slightly_smiling_face:
+Congrats <@U01BSDQP3D3>! Keep up the great work :slightly_smiling_face:
+type  :  message
+subtype  :  bot_message
+text  :  inchins indian kitchen cancelled their account
+ts  :  1641931197.220400
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'qaw', 'text': {'type': 'mrkdwn', 'text': '*inchins indian kitchen* cancelled their account :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173211'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KmLOwYBzNVwmzG'}], 'action_id': 'Mg6'}}, {'type': 'section', 'block_id': 'zkv', 'text': {'type': 'mrkdwn', 'text': '1 · appetizer\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Eeq', 'elements': [{'type': 'mrkdwn', 'text': '-$16.09 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Rlsp', 'text': {'type': 'mrkdwn', 'text': 'Business too small, especially with current restrictions. Offered billing relief/move to comp, but they refused. - EH\n', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641931197.220400
+channel_type  :  channel
+message_hello!
+the msg was inchins indian kitchen cancelled their account
+inchins indian kitchen cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Macari Vineyards & Winery
+ts  :  1641931242.220500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'AfJk', 'text': {'type': 'mrkdwn', 'text': '*Macari Vineyards &amp; Winery* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178932'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwk0HUp79HdjVP'}], 'action_id': 'dV3'}}, {'type': 'section', 'block_id': 'LoD', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'q6pR', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'x0je', 'text': {'type': 'mrkdwn', 'text': 'Mattituck NY, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641931242.220500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Macari Vineyards & Winery
+New Customer: Macari Vineyards & Winery
+client_msg_id  :  eedd86e0-0dba-4b3a-beca-17e27c97ef0d
+type  :  message
+text  :  Self-converted, but a great vineyard i’ve been too will shoot them a message! :)
+user  :  U01CF4DF7UP
+ts  :  1641931340.220700
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '+St', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Self-converted, but a great vineyard i’ve been too will shoot them a message! :)'}]}]}]
+thread_ts  :  1641931242.220500
+channel  :  C07TKEQ06
+event_ts  :  1641931340.220700
+channel_type  :  channel
+message_hello!
+the msg was Self-converted, but a great vineyard i’ve been too will shoot them a message! :)
+Self-converted, but a great vineyard i’ve been too will shoot them a message! :)
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Windsor Rose Pub
+ts  :  1641931635.221300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'ex3w', 'text': {'type': 'mrkdwn', 'text': '*Windsor Rose Pub* just subscribed! :natalie_taylor:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178010'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwk6uS0wJ01XO7'}], 'action_id': 'y9xW0'}}, {'type': 'section', 'block_id': 'wx2aB', 'text': {'type': 'mrkdwn', 'text': '5 · entree-v5\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'zkPgW', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'o92', 'text': {'type': 'mrkdwn', 'text': 'Calgary AB, CA', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641931635.221300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Windsor Rose Pub
+New Customer: Windsor Rose Pub
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Pagnol et Cie
+ts  :  1641931816.221400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'k6VYS', 'text': {'type': 'mrkdwn', 'text': '*Pagnol et Cie* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/171713'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwk9SnqYuFg5GP'}], 'action_id': 'mL1'}}, {'type': 'section', 'block_id': 'Jxb', 'text': {'type': 'mrkdwn', 'text': '1 · gourmet-v2-usd\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'u0p', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'HCCsn', 'text': {'type': 'mrkdwn', 'text': 'BERKELEY CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641931816.221400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Pagnol et Cie
+New Customer: Pagnol et Cie
+client_msg_id  :  460b997e-0977-4487-9d9f-aec7abcbe77d
+type  :  message
+text  :  Demo’d last month, followed up to move forward with gourmet for Aloha integration
+user  :  U01CF4DF7UP
+ts  :  1641931980.222000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'qMez8', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Demo’d last month, followed up to move forward with gourmet for Aloha integration'}]}]}]
+thread_ts  :  1641931816.221400
+channel  :  C07TKEQ06
+event_ts  :  1641931980.222000
+channel_type  :  channel
+message_hello!
+the msg was Demo’d last month, followed up to move forward with gourmet for Aloha integration
+Demo’d last month, followed up to move forward with gourmet for Aloha integration
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: The Pumphouse Bar & Grill
+ts  :  1641932334.222900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'C51', 'text': {'type': 'mrkdwn', 'text': '*The Pumphouse Bar &amp; Grill* just subscribed! :joel_gaskin:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178466'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwkIDqTn5EI3RB'}], 'action_id': '0iIKY'}}, {'type': 'section', 'block_id': 'HIBme', 'text': {'type': 'mrkdwn', 'text': '1 · entree-v5-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'Dv/c', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'DxevI', 'text': {'type': 'mrkdwn', 'text': 'Bellevue WA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641932334.222900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: The Pumphouse Bar & Grill
+New Customer: The Pumphouse Bar & Grill
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Trillium Wood
+ts  :  1641932355.223000
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'QwKR+', 'text': {'type': 'mrkdwn', 'text': '*Trillium Wood* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/174215'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwkIkcPYdp294D'}], 'action_id': 'DBh4D'}}, {'type': 'section', 'block_id': 'yBR', 'text': {'type': 'mrkdwn', 'text': '2 · works-v2\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'SYpF', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'AOm', 'text': {'type': 'mrkdwn', 'text': 'Corbyville ON, CA', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641932355.223000
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Trillium Wood
+New Customer: Trillium Wood
+type  :  message
+subtype  :  bot_message
+text  :  Trillium Wood purchased an addon!
+ts  :  1641932367.223100
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'lB=', 'text': {'type': 'mrkdwn', 'text': '*Trillium Wood* purchased an addon! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/174215'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwkIkcPYdp294D'}], 'action_id': 'V=oLH'}}, {'type': 'section', 'block_id': 'jOmf', 'text': {'type': 'mrkdwn', 'text': '*2 · task-management*\n\nother subscriptions:\n2 · works-v2\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'UBruM', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641932367.223100
+channel_type  :  channel
+message_hello!
+the msg was Trillium Wood purchased an addon!
+Trillium Wood purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  Loop Fortuna Bakery upgraded their plan!
+ts  :  1641932545.224600
+bot_id  :  B017H9MT02G
+blocks  :  [{'type': 'section', 'block_id': '4GzcO', 'text': {'type': 'mrkdwn', 'text': '*Loop Fortuna Bakery* upgraded their plan! :raised_hands:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/168579'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KcceEeUAgEfOCs'}], 'action_id': 'kn=rY'}}, {'type': 'section', 'block_id': 'zvg', 'text': {'type': 'mrkdwn', 'text': '*2 · entree-v7-annual-usd → works-v2-annual-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'jgv', 'elements': [{'type': 'mrkdwn', 'text': '+$80.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641932545.224600
+channel_type  :  channel
+message_hello!
+the msg was Loop Fortuna Bakery upgraded their plan!
+Loop Fortuna Bakery upgraded their plan!
+type  :  message
+subtype  :  bot_message
+text  :  GOOD Eats and Sips purchased an addon!
+ts  :  1641932705.225600
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'X1SZ+', 'text': {'type': 'mrkdwn', 'text': '*GOOD Eats and Sips* purchased an addon! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/145312'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JtTNZMlaxos3ii'}], 'action_id': 'Nt0d'}}, {'type': 'section', 'block_id': '5MZ8g', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-annual-usd*\n\nother subscriptions:\n1 · entree-v5-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'GYw', 'elements': [{'type': 'mrkdwn', 'text': '+$11.67 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641932705.225600
+channel_type  :  channel
+message_hello!
+the msg was GOOD Eats and Sips purchased an addon!
+GOOD Eats and Sips purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Border Grill - BBQ Mexicana
+ts  :  1641932718.225700
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'b/i37', 'text': {'type': 'mrkdwn', 'text': '*Border Grill - BBQ Mexicana* just subscribed! :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176454'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwkOs9oS2CF4SS'}], 'action_id': 'dvF'}}, {'type': 'section', 'block_id': 'Akv0+', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'fTo+', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Pu8+', 'text': {'type': 'mrkdwn', 'text': 'LOS ANGELES CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641932718.225700
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Border Grill - BBQ Mexicana
+New Customer: Border Grill - BBQ Mexicana
+type  :  message
+subtype  :  bot_message
+text  :  GOOD Eats and Sips purchased an addon!
+ts  :  1641933465.227300
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'g5eq', 'text': {'type': 'mrkdwn', 'text': '*GOOD Eats and Sips* purchased an addon! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/145312'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JtTNZMlaxos3ii'}], 'action_id': 'fth'}}, {'type': 'section', 'block_id': '2d0E', 'text': {'type': 'mrkdwn', 'text': '*1 · log-book-annual-usd*\n\nother subscriptions:\n1 · entree-v5-annual-usd\n1 · task-management-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'q8+2', 'elements': [{'type': 'mrkdwn', 'text': '+$13.50 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641933465.227300
+channel_type  :  channel
+message_hello!
+the msg was GOOD Eats and Sips purchased an addon!
+GOOD Eats and Sips purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  Lucky's BBQ purchased an addon!
+ts  :  1641933466.227400
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'WMla', 'text': {'type': 'mrkdwn', 'text': "*Lucky's BBQ* purchased an addon! :brent_waites:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/125191'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_J8HuNldR6gvB38'}], 'action_id': 'EKcH8'}}, {'type': 'section', 'block_id': '=p0', 'text': {'type': 'mrkdwn', 'text': '*1 · operations-overview-annual*\n\nother subscriptions:\n1 · appetizer-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'WAf', 'elements': [{'type': 'mrkdwn', 'text': '+$5.03 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641933466.227400
+channel_type  :  channel
+message_hello!
+the msg was Lucky's BBQ purchased an addon!
+Lucky's BBQ purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Rye Tavern
+ts  :  1641934057.229400
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'X9G', 'text': {'type': 'mrkdwn', 'text': '*Rye Tavern* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176964'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwkl1g9JKVpBiT'}], 'action_id': '7aXeD'}}, {'type': 'section', 'block_id': 'Z4Ckf', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'wuQ', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'Jquy', 'text': {'type': 'mrkdwn', 'text': 'Plymouth MA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641934057.229400
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Rye Tavern
+New Customer: Rye Tavern
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: The Shark on the Harbor
+ts  :  1641934158.229500
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'esPh6', 'text': {'type': 'mrkdwn', 'text': '*The Shark on the Harbor* just subscribed! :claudia_adragna:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179776'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwkm2Mn253s1FB'}], 'action_id': 'ehd'}}, {'type': 'section', 'block_id': 'tiv+', 'text': {'type': 'mrkdwn', 'text': '1 · gourmet-v2-usd\nCoupon: 2022_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'th3', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'PvF', 'text': {'type': 'mrkdwn', 'text': 'Ocean City MD, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641934158.229500
+channel_type  :  channel
+message_hello!
+the msg was New Customer: The Shark on the Harbor
+New Customer: The Shark on the Harbor
+type  :  message
+subtype  :  bot_message
+text  :  Raceday Cycle & Multisport cancelled an addon
+ts  :  1641934739.230800
+bot_id  :  B016WC1AFC7
+blocks  :  [{'type': 'section', 'block_id': 'R4ox', 'text': {'type': 'mrkdwn', 'text': '*Raceday Cycle &amp; Multisport* cancelled an addon :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/137246'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Je9jrAN2HPzH5B'}], 'action_id': 'yy48'}}, {'type': 'section', 'block_id': 'vMO', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-usd*\n\nother subscriptions:\n1 · appetizer-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '2aKq', 'elements': [{'type': 'mrkdwn', 'text': '-$12.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641934739.230800
+channel_type  :  channel
+message_hello!
+the msg was Raceday Cycle & Multisport cancelled an addon
+Raceday Cycle & Multisport cancelled an addon
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Ferns
+ts  :  1641934803.230900
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': '2WKre', 'text': {'type': 'mrkdwn', 'text': '*Ferns* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179777'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwkxQGgPgjUxj1'}], 'action_id': 'kkKzv'}}, {'type': 'section', 'block_id': 'rzCE9', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: 2022_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'YqGF', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'S3V', 'text': {'type': 'mrkdwn', 'text': 'New York NY, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641934803.230900
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Ferns
+New Customer: Ferns
+client_msg_id  :  290a0dc5-5381-456b-b868-28dec31e9160
+type  :  message
+text  :  Assist from <@U029LGMRMT5>!
+
+Couldn’t find the new BDR 3 mos coupon so used that one sorry! He was aware of 3 mos free from Toast and 7shifts <@UG3JE1K2P>
+user  :  U01CF4DF7UP
+ts  :  1641935301.231100
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'mQf', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Assist from '}, {'type': 'user', 'user_id': 'U029LGMRMT5'}, {'type': 'text', 'text': '!\n\nCouldn’t find the new BDR 3 mos coupon so used that one sorry! He was aware of 3 mos free from Toast and 7shifts '}, {'type': 'user', 'user_id': 'UG3JE1K2P'}]}]}]
+thread_ts  :  1641934803.230900
+channel  :  C07TKEQ06
+event_ts  :  1641935301.231100
+channel_type  :  channel
+message_hello!
+the msg was Assist from <@U029LGMRMT5>!
+
+Couldn’t find the new BDR 3 mos coupon so used that one sorry! He was aware of 3 mos free from Toast and 7shifts <@UG3JE1K2P>
+Assist from <@U029LGMRMT5>!
+
+Couldn’t find the new BDR 3 mos coupon so used that one sorry! He was aware of 3 mos free from Toast and 7shifts <@UG3JE1K2P>
+client_msg_id  :  cd3a01d2-f3e7-4bac-8f25-8c8af820fe8e
+type  :  message
+text  :  <@U02GSC2KF2P> ADP referral - came in for Connector, upgraded to Gourmet for full feature functionlaity :slightly_smiling_face:
+user  :  UAAEM02JW
+ts  :  1641935436.231300
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'z4o', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U02GSC2KF2P'}, {'type': 'text', 'text': ' ADP referral - came in for Connector, upgraded to Gourmet for full feature functionlaity '}, {'type': 'emoji', 'name': 'slightly_smiling_face'}]}]}]
+thread_ts  :  1641934158.229500
+channel  :  C07TKEQ06
+event_ts  :  1641935436.231300
+channel_type  :  channel
+message_hello!
+the msg was <@U02GSC2KF2P> ADP referral - came in for Connector, upgraded to Gourmet for full feature functionlaity :slightly_smiling_face:
+<@U02GSC2KF2P> ADP referral - came in for Connector, upgraded to Gourmet for full feature functionlaity :slightly_smiling_face:
+handle_message_events!
+type  :  message
+subtype  :  bot_message
+text  :  Tras horizonte purchased an addon!
+ts  :  1641936025.232200
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'ypC', 'text': {'type': 'mrkdwn', 'text': '*Tras horizonte* purchased an addon! :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/169826'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KfXBiERrHybVrO'}], 'action_id': 'BX9'}}, {'type': 'section', 'block_id': 'tkzT', 'text': {'type': 'mrkdwn', 'text': '*1 · tip-pooling-v1-30max-usd*\n\nother subscriptions:\n1 · entree-v5-usd\n1 · task-management-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': '2eDp=', 'elements': [{'type': 'mrkdwn', 'text': '+$24.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641936025.232200
+channel_type  :  channel
+message_hello!
+the msg was Tras horizonte purchased an addon!
+Tras horizonte purchased an addon!
+client_msg_id  :  40837353-f5d6-4ef7-a473-dd851b56348b
+type  :  message
+text  :  <@UQWU8789G> +2 loc close thanks to your help!
+user  :  U01DU8ADERG
+ts  :  1641936233.233000
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '+ThY', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'UQWU8789G'}, {'type': 'text', 'text': ' +2 loc close thanks to your help!'}]}]}]
+thread_ts  :  1641925630.214100
+channel  :  C07TKEQ06
+event_ts  :  1641936233.233000
+channel_type  :  channel
+message_hello!
+the msg was <@UQWU8789G> +2 loc close thanks to your help!
+<@UQWU8789G> +2 loc close thanks to your help!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: HTeaO SW OKC
+ts  :  1641936391.233300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'l8Mgg', 'text': {'type': 'mrkdwn', 'text': '*HTeaO SW OKC* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178018'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwlOxY8hSJKIKh'}], 'action_id': 'ZYRq'}}, {'type': 'section', 'block_id': '/rF', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: GETSTARTED_2MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'pMHa1', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'bsrG', 'text': {'type': 'mrkdwn', 'text': 'NORMAN OK, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641936391.233300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: HTeaO SW OKC
+New Customer: HTeaO SW OKC
+client_msg_id  :  133ab49a-18b5-4242-b104-9b03124e3df0
+type  :  message
+text  :  Woohoo@@ Nice win <@U01CF4DF7UP> :tada:
+user  :  UG3JE1K2P
+ts  :  1641936694.234500
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '5A2W', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Woohoo@@ Nice win '}, {'type': 'user', 'user_id': 'U01CF4DF7UP'}, {'type': 'text', 'text': ' '}, {'type': 'emoji', 'name': 'tada'}]}]}]
+thread_ts  :  1641934803.230900
+channel  :  C07TKEQ06
+event_ts  :  1641936694.234500
+channel_type  :  channel
+message_hello!
+the msg was Woohoo@@ Nice win <@U01CF4DF7UP> :tada:
+Woohoo@@ Nice win <@U01CF4DF7UP> :tada:
+client_msg_id  :  fe2be378-2082-4dfb-8d97-c3c5a76101f7
+type  :  message
+text  :  Way to go Jared! Yo da man!
+user  :  U029LGMRMT5
+ts  :  1641936779.234800
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'ONl', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Way to go Jared! Yo da man!'}]}]}]
+thread_ts  :  1641934803.230900
+channel  :  C07TKEQ06
+event_ts  :  1641936779.234800
+channel_type  :  channel
+message_hello!
+the msg was Way to go Jared! Yo da man!
+Way to go Jared! Yo da man!
+handle_message_events!
+client_msg_id  :  cc8da9ff-03e0-4333-a2b1-7192e4191e54
+type  :  message
+text  :  Coming off When I Work for Revel integration and Paychex export. 2 more locations to come in the next 3 months!
+user  :  U01CF4DF7UP
+ts  :  1641936856.235200
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '28v', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Coming off When I Work for Revel integration and Paychex export. 2 more locations to come in the next 3 months!'}]}]}]
+thread_ts  :  1641936391.233300
+channel  :  C07TKEQ06
+event_ts  :  1641936856.235200
+channel_type  :  channel
+message_hello!
+the msg was Coming off When I Work for Revel integration and Paychex export. 2 more locations to come in the next 3 months!
+Coming off When I Work for Revel integration and Paychex export. 2 more locations to come in the next 3 months!
+client_msg_id  :  26e1c4b2-69da-4977-95ff-a3f6b4162b25
+type  :  message
+text  :  <@U029SGLB15J>
+user  :  U01CF4DF7UP
+ts  :  1641936933.235600
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': '3FdJ', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'user', 'user_id': 'U029SGLB15J'}]}]}]
+thread_ts  :  1641936391.233300
+channel  :  C07TKEQ06
+event_ts  :  1641936933.235600
+channel_type  :  channel
+message_hello!
+the msg was <@U029SGLB15J>
+<@U029SGLB15J>
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Juniper
+ts  :  1641937576.236000
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'xcQ8', 'text': {'type': 'mrkdwn', 'text': '*Juniper* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179780'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwlhV8WlsMcZwm'}], 'action_id': 'Jj/a'}}, {'type': 'section', 'block_id': '+B8', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\nCoupon: SCHEDULEFLY_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': '=D+', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'x4+', 'text': {'type': 'mrkdwn', 'text': 'GREENVILLE SC, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641937576.236000
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Juniper
+New Customer: Juniper
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: The Dixboro Project
+ts  :  1641938022.236200
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'KjMRZ', 'text': {'type': 'mrkdwn', 'text': '*The Dixboro Project* just subscribed! :raised_hands:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/178374'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KwlpomscueSFpR'}], 'action_id': 'uDsf'}}, {'type': 'section', 'block_id': 'J2w7', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'J1A', 'elements': [{'type': 'mrkdwn', 'text': '+$76.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': '4Ur', 'text': {'type': 'mrkdwn', 'text': 'ANN ARBOR MI, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641938022.236200
+channel_type  :  channel
+message_hello!
+the msg was New Customer: The Dixboro Project
+New Customer: The Dixboro Project
+type  :  message
+subtype  :  bot_message
+text  :  FS Van Aiken LLC cancelled their account
+ts  :  1641938237.236300
+bot_id  :  B0180V3NGBA
+blocks  :  [{'type': 'section', 'block_id': 'uET', 'text': {'type': 'mrkdwn', 'text': '*FS Van Aiken LLC* cancelled their account :connor_mank:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/135728'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JZk6tqcU9U3EwI'}], 'action_id': 'PfEw'}}, {'type': 'section', 'block_id': 'lrq', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'rsOEn', 'elements': [{'type': 'mrkdwn', 'text': '-$76.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938237.236300
+channel_type  :  channel
+message_hello!
+the msg was FS Van Aiken LLC cancelled their account
+FS Van Aiken LLC cancelled their account
+type  :  message
+subtype  :  bot_message
+text  :  Other Half Brewing deleted a location
+ts  :  1641938523.236800
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'pjZqU', 'text': {'type': 'mrkdwn', 'text': '*Other Half Brewing* deleted a location :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173189'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhhSPdTh3kVXv1'}], 'action_id': 'LVj+4'}}, {'type': 'section', 'block_id': 'WvyA', 'text': {'type': 'mrkdwn', 'text': '6 → 5 works-v2-usd\nCoupon: 2021_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'QbQ', 'elements': [{'type': 'mrkdwn', 'text': '-$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938523.236800
+channel_type  :  channel
+message_hello!
+the msg was Other Half Brewing deleted a location
+Other Half Brewing deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  Other Half Brewing deleted a location
+ts  :  1641938530.236900
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'JJQ', 'text': {'type': 'mrkdwn', 'text': '*Other Half Brewing* deleted a location :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173189'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhhSPdTh3kVXv1'}], 'action_id': 'Dp/O'}}, {'type': 'section', 'block_id': 'Z/5Sc', 'text': {'type': 'mrkdwn', 'text': '5 → 4 works-v2-usd\nCoupon: 2021_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'R=04P', 'elements': [{'type': 'mrkdwn', 'text': '-$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938530.236900
+channel_type  :  channel
+message_hello!
+the msg was Other Half Brewing deleted a location
+Other Half Brewing deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  Other Half Brewing deleted a location
+ts  :  1641938535.237000
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'Btc3', 'text': {'type': 'mrkdwn', 'text': '*Other Half Brewing* deleted a location :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173189'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhhSPdTh3kVXv1'}], 'action_id': '6o9S'}}, {'type': 'section', 'block_id': '30Qt5', 'text': {'type': 'mrkdwn', 'text': '4 → 3 works-v2-usd\nCoupon: 2021_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': '/TZj', 'elements': [{'type': 'mrkdwn', 'text': '-$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938535.237000
+channel_type  :  channel
+message_hello!
+the msg was Other Half Brewing deleted a location
+Other Half Brewing deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  Other Half Brewing deleted a location
+ts  :  1641938540.237100
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'f8g', 'text': {'type': 'mrkdwn', 'text': '*Other Half Brewing* deleted a location :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173189'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhhSPdTh3kVXv1'}], 'action_id': 'w0=p'}}, {'type': 'section', 'block_id': 'as+c', 'text': {'type': 'mrkdwn', 'text': '3 → 2 works-v2-usd\nCoupon: 2021_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'OteH', 'elements': [{'type': 'mrkdwn', 'text': '-$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938540.237100
+channel_type  :  channel
+message_hello!
+the msg was Other Half Brewing deleted a location
+Other Half Brewing deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  Other Half Brewing deleted a location
+ts  :  1641938546.237200
+bot_id  :  B017H9L9ATE
+blocks  :  [{'type': 'section', 'block_id': 'vdo', 'text': {'type': 'mrkdwn', 'text': '*Other Half Brewing* deleted a location :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/173189'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KhhSPdTh3kVXv1'}], 'action_id': 'PGnKg'}}, {'type': 'section', 'block_id': 'PG5Bq', 'text': {'type': 'mrkdwn', 'text': '2 → 1 works-v2-usd\nCoupon: 2021_PARTNER_3MO', 'verbatim': False}}, {'type': 'context', 'block_id': 'aP/a', 'elements': [{'type': 'mrkdwn', 'text': '-$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641938546.237200
+channel_type  :  channel
+message_hello!
+the msg was Other Half Brewing deleted a location
+Other Half Brewing deleted a location
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Signatures
+ts  :  1641938709.237300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'ACH', 'text': {'type': 'mrkdwn', 'text': '*Signatures* just subscribed! :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/179797'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwm093rO8EGDdh'}], 'action_id': 'NTTK'}}, {'type': 'section', 'block_id': 'ALTwl', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'FFR=X', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'FoNXV', 'text': {'type': 'mrkdwn', 'text': 'WARMINSTER PA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641938709.237300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Signatures
+New Customer: Signatures
+type  :  message
+subtype  :  bot_message
+text  :  Locals Food Hub & Pizza Pub downgraded their plan
+ts  :  1641939461.237500
+bot_id  :  B017H9Q1Z9S
+blocks  :  [{'type': 'section', 'block_id': 'q5irC', 'text': {'type': 'mrkdwn', 'text': '*Locals Food Hub &amp; Pizza Pub* downgraded their plan :sukhpreet_singh:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/139213'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_JdQTk8UPN8UUf0'}], 'action_id': 'FBK'}}, {'type': 'section', 'block_id': 'aEu', 'text': {'type': 'mrkdwn', 'text': '*1 · works-v2-usd → entree-v5-usd*\n\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'AYKZ', 'elements': [{'type': 'mrkdwn', 'text': '-$33.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641939461.237500
+channel_type  :  channel
+message_hello!
+the msg was Locals Food Hub & Pizza Pub downgraded their plan
+Locals Food Hub & Pizza Pub downgraded their plan
+type  :  message
+subtype  :  bot_message
+text  :  Grandy's (El Paso) purchased an addon!
+ts  :  1641939557.237600
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': '+py', 'text': {'type': 'mrkdwn', 'text': "*Grandy's (El Paso)* purchased an addon! :kelly_fitzpatrick:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/161642'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KlpXGCMbR6WuZv'}], 'action_id': 'lnH'}}, {'type': 'section', 'block_id': 'TZLK', 'text': {'type': 'mrkdwn', 'text': '*1 · operations-overview-usd*\n\nother subscriptions:\n1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'XWE3', 'elements': [{'type': 'mrkdwn', 'text': '+$6.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641939557.237600
+channel_type  :  channel
+message_hello!
+the msg was Grandy's (El Paso) purchased an addon!
+Grandy's (El Paso) purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  Grandy's (Las Cruces) purchased an addon!
+ts  :  1641939581.238100
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'Im5k', 'text': {'type': 'mrkdwn', 'text': "*Grandy's (Las Cruces)* purchased an addon! :kelly_fitzpatrick:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/161642'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KOugXXKBUVGMng'}], 'action_id': 'kYXWQ'}}, {'type': 'section', 'block_id': 'b8I7f', 'text': {'type': 'mrkdwn', 'text': '*1 · operations-overview-usd*\n\nother subscriptions:\n1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'JbEv2', 'elements': [{'type': 'mrkdwn', 'text': '+$6.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641939581.238100
+channel_type  :  channel
+message_hello!
+the msg was Grandy's (Las Cruces) purchased an addon!
+Grandy's (Las Cruces) purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  Grandy's (Moore) purchased an addon!
+ts  :  1641939607.238200
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': '3kt2S', 'text': {'type': 'mrkdwn', 'text': "*Grandy's (Moore)* purchased an addon! :kelly_fitzpatrick:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/161642'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KOuhzsJqW1iNfp'}], 'action_id': 'lSr'}}, {'type': 'section', 'block_id': 'tCl', 'text': {'type': 'mrkdwn', 'text': '*1 · operations-overview-usd*\n\nother subscriptions:\n1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'ppK', 'elements': [{'type': 'mrkdwn', 'text': '+$6.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641939607.238200
+channel_type  :  channel
+message_hello!
+the msg was Grandy's (Moore) purchased an addon!
+Grandy's (Moore) purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  Grandy's (OKC) purchased an addon!
+ts  :  1641939637.238300
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': 'ZPJ4', 'text': {'type': 'mrkdwn', 'text': "*Grandy's (OKC)* purchased an addon! :kelly_fitzpatrick:\n", 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/161642'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_KOuiyjzwGDAGIt'}], 'action_id': '=MQrL'}}, {'type': 'section', 'block_id': 'PiZ', 'text': {'type': 'mrkdwn', 'text': '*1 · operations-overview-usd*\n\nother subscriptions:\n1 · works-v2-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'nRC', 'elements': [{'type': 'mrkdwn', 'text': '+$6.99 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641939637.238300
+channel_type  :  channel
+message_hello!
+the msg was Grandy's (OKC) purchased an addon!
+Grandy's (OKC) purchased an addon!
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Canton Center Pizza
+ts  :  1641942512.240700
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'ME/7', 'text': {'type': 'mrkdwn', 'text': '*Canton Center Pizza* just subscribed! :aaron_jocano:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/176878'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwn2GWdEUfKl3y'}], 'action_id': 'hL1DZ'}}, {'type': 'section', 'block_id': 'n4bjy', 'text': {'type': 'mrkdwn', 'text': '1 · comp-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'y6Ar', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641942512.240700
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Canton Center Pizza
+New Customer: Canton Center Pizza
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Big Star Sandwich
+ts  :  1641942613.241200
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'LrpT=', 'text': {'type': 'mrkdwn', 'text': '*Big Star Sandwich* just subscribed! :declan_campion:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177032'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwn3uaF7v2Yqlc'}], 'action_id': '/2d'}}, {'type': 'section', 'block_id': 'mjq8N', 'text': {'type': 'mrkdwn', 'text': '1 · comp-annual\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'rLP', 'elements': [{'type': 'mrkdwn', 'text': '+$0.00 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641942613.241200
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Big Star Sandwich
+New Customer: Big Star Sandwich
+type  :  message
+subtype  :  bot_message
+text  :  New Customer: Farwood Bar and Grill
+ts  :  1641942729.241300
+bot_id  :  B017B9Y5A75
+blocks  :  [{'type': 'section', 'block_id': 'R/Iy', 'text': {'type': 'mrkdwn', 'text': '*Farwood Bar and Grill* just subscribed! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177914'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwn59Phf47xJEi'}], 'action_id': 'I1Z'}}, {'type': 'section', 'block_id': 'NF/B', 'text': {'type': 'mrkdwn', 'text': '1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'hTe', 'elements': [{'type': 'mrkdwn', 'text': '+$69.99 MRR', 'verbatim': False}]}, {'type': 'section', 'block_id': 'XoN93', 'text': {'type': 'mrkdwn', 'text': 'Orland CA, US', 'verbatim': False}}]
+channel  :  C07TKEQ06
+event_ts  :  1641942729.241300
+channel_type  :  channel
+message_hello!
+the msg was New Customer: Farwood Bar and Grill
+New Customer: Farwood Bar and Grill
+type  :  message
+subtype  :  bot_message
+text  :  Farwood Bar and Grill purchased an addon!
+ts  :  1641945172.241800
+bot_id  :  B017PNTEQE5
+blocks  :  [{'type': 'section', 'block_id': '9zUz', 'text': {'type': 'mrkdwn', 'text': '*Farwood Bar and Grill* purchased an addon! :jared_fanning:\n', 'verbatim': False}, 'accessory': {'type': 'overflow', 'options': [{'text': {'type': 'plain_text', 'text': 'Admin Panel', 'emoji': True}, 'value': 'admin_panel_link', 'url': 'https://admin.7shifts.software/admin/companies/177914'}, {'text': {'type': 'plain_text', 'text': 'Stripe Dashboard', 'emoji': True}, 'value': 'stripe_dashboard_link', 'url': 'https://dashboard.stripe.com/customers/cus_Kwn59Phf47xJEi'}], 'action_id': '8vMk'}}, {'type': 'section', 'block_id': 'ruTK', 'text': {'type': 'mrkdwn', 'text': '*1 · task-management-annual-usd*\n\nother subscriptions:\n1 · works-v2-annual-usd\n', 'verbatim': False}}, {'type': 'context', 'block_id': 'Ab52X', 'elements': [{'type': 'mrkdwn', 'text': '+$11.67 MRR', 'verbatim': False}]}]
+channel  :  C07TKEQ06
+event_ts  :  1641945172.241800
+channel_type  :  channel
+message_hello!
+the msg was Farwood Bar and Grill purchased an addon!
+Farwood Bar and Grill purchased an addon!
+client_msg_id  :  C2D3F134-C567-47CE-A4E4-C1E985632FD3
+type  :  message
+text  :  Nice one fellas !! 
+user  :  UH8PZLY49
+ts  :  1641945410.242100
+team  :  T043NATS3
+blocks  :  [{'type': 'rich_text', 'block_id': 'NHx', 'elements': [{'type': 'rich_text_section', 'elements': [{'type': 'text', 'text': 'Nice one fellas !! '}]}]}]
+thread_ts  :  1641934803.230900
+channel  :  C07TKEQ06
+event_ts  :  1641945410.242100
+channel_type  :  channel
+message_hello!
+the msg was Nice one fellas !! 
+Nice one fellas !! 
