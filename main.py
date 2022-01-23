@@ -1,30 +1,52 @@
-import os
-from slack_bolt import App
-from slack_bolt.adapter.socket_mode import SocketModeHandler
 from customer_actions import CustomerActions
-from dotenv import load_dotenv
 from led import LedStrip
 from write_led import WriteLed
-
-load_dotenv()
-
-BOT_TOKEN = os.getenv('BOT_TOKEN')
-APP_TOKEN = os.getenv('APP_TOKEN')
-
-app = App(token=BOT_TOKEN)
-
-# for customerActions in CustomerActions:
-#      print(customerActions)
-
-# Initializes your app with your bot token and socket mode handler
-app = App(token=BOT_TOKEN)
+from slack import SlackBot
+import time
 
 
-ledStrip = LedStrip()
-write_led = WriteLed(ledStrip)
+led_strip = LedStrip()
+write_led = WriteLed(led_strip)
 
-write_led.gradient2(write_led.RED, write_led.GREEN)
-write_led.off()
+slack_bot = SlackBot(write_led)
+app = slack_bot.app
+
+myDict = {}
+
+myDict["user"] = "U0251J73N0Z" #user
+
+print("user")
+slack_bot.parseAction(myDict)
+time.sleep(3)
+
+myDict["bot_id"] = "B017B9Y5A75" # new subs
+print("new subs")
+slack_bot.parseAction(myDict)
+time.sleep(3)
+
+myDict["bot_id"] = "B017PNTEQE5" # addon
+print("addon")
+slack_bot.parseAction(myDict)
+time.sleep(3)
+
+myDict["bot_id"] = "B016WBNJ7P1" # expans
+print("expans")
+slack_bot.parseAction(myDict)
+time.sleep(3)
+
+myDict["bot_id"] = "B017H9MT02G" # upgrade
+print("upgrade")
+slack_bot.parseAction(myDict)
+time.sleep(3)
+
+
+
+
+# write_led.gradient(write_led.BLUE,5)
+# write_led.off()
+
+# write_led.gradient2(write_led.RED, write_led.GREEN,2)
+# write_led.off()
 
 # Listens to incoming messages that contain "hello"
 # To learn available listener arguments,
@@ -34,14 +56,16 @@ def message_hello(message, say):
     # say() sends a message to the channel where the event was triggered
     # say(f"ASD there <@{message['user']}>!")
     # for key, value in message.items():
-        # print(key, ' : ', value)
-    text = message['text']
-    say("The text is: " + text)
-    write_led.writeAll(write_led.ORANGE)
-    write_led.off()
-    write_led.writeAll(write_led.ORANGE)
-    write_led.off()
+    #     print(key, ' : ', value)
+    # text = message['text']
+    # user = message['user']
+    # say("The text is: " + text)
+    # write_led.writeAll(write_led.BLUE)
+    # write_led.off()
+    # write_led.writeAll(write_led.ORANGE)
+    # write_led.off()
+    slack_bot.parseAction(message)
 
 # Start your app
 if __name__ == "__main__":
-    SocketModeHandler(app, APP_TOKEN).start()
+    slack_bot.socker_mode.start()
