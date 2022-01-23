@@ -8,4 +8,4 @@
 #sudo su -c 'python3 /home/pi/Desktop/slack_raspberry_led/main.py;'
 
 
-#sudo kill -9 $(pgrep -f slack)
+#sudo kill -9 $(pgrep -f slack_raspberry_led)

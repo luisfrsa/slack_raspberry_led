@@ -39,13 +39,14 @@ class WriteLed:
         self.ledStrip.show()
         time.sleep(delay)
     
-    def gradient(self, color):
+    def lineProgress(self, color, seconds = 2):
+        changeSpeed = seconds/LedStrip.LED_COUNT
         for x in range(0,LedStrip.LED_COUNT):
             self.ledStrip.setPixelColor(x,Color(color[0],color[1],color[2]))
             self.ledStrip.show()
-            time.sleep(0.008)
+            time.sleep(changeSpeed)
 
-    def gradient2(self, colorFrom, colorTo, seconds=5):
+    def gradient(self, colorFrom, colorTo, seconds=5):
         changeSpeed = 0.05
         numberOfColors = int(seconds/changeSpeed)
         colorInstance = ColorRGB(rgb=(self.rgbToColour(colorFrom[0]),self.rgbToColour(colorFrom[1]),self.rgbToColour(colorFrom[2])))
@@ -73,14 +74,14 @@ class WriteLed:
 
     def rgb():
         for _ in range(100): 
-            write_led.gradient(write_led.RED)
-            write_led.gradient(write_led.BLUE)
-            write_led.gradient(write_led.GREEN)
+            write_led.lineProgress(write_led.RED)
+            write_led.lineProgress(write_led.BLUE)
+            write_led.lineProgress(write_led.GREEN)
 
     def seven_shifts():
         for _ in range(100):
-            write_led.gradient(write_led.SEVEN_SHIFTS_ORANGE)
-            write_led.gradient(write_led.SEVEN_SHIFTS_MINT)
+            write_led.lineProgress(write_led.SEVEN_SHIFTS_ORANGE)
+            write_led.lineProgress(write_led.SEVEN_SHIFTS_MINT)
 
     def red_orange():
         for _ in range(100):
