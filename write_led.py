@@ -13,8 +13,8 @@ class WriteLed:
     BLUE_GREEN = [0,255,254]
     BLUE = [0,33,255]
     PINK = [255,0,191]
-    SEVEN_SHIFTS_ORANGE = [255,0,50]
-    SEVEN_SHIFTS_MINT = [58,189,169]
+    SEVEN_SHIFTS_ORANGE = [255,15,0]
+    SEVEN_SHIFTS_MINT = [50,255,25]
     BLACK = [0,0,0]
 
     def __init__(self, ledStrip): 

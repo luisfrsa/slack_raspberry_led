@@ -16,54 +16,66 @@ class SlackBot:
 
     
     def parseAction(self,message):
-        # message['bot_id'] = CustomerActions.ADDON_PURCHASE
-        bot_id = message['user']
-        if(bot_id == CustomerActions.ADDON_PURCHASE):
+        # message.get('bot_id') = CustomerActions.ADDON_PURCHASE.value
+        bot_id = message.get('bot_id')
+        print("bot_id")
+        print(bot_id)
+
+        if(bot_id == CustomerActions.ADDON_PURCHASE.value):
             print("CustomerActions.ADDON_PURCHASE")
             self.addon_purchase()
             return
-        if(bot_id == CustomerActions.EXPANSION):
+        if(bot_id == CustomerActions.EXPANSION.value):
             print("CustomerActions.EXPANSION")
             self.expansion()
             return
-        if(bot_id == CustomerActions.NEW_SUBSCRIPTION):
+        if(bot_id == CustomerActions.NEW_SUBSCRIPTION.value):
             print("CustomerActions.NEW_SUBSCRIPTION")
             self.new_subscription()
             return
-        if(bot_id == CustomerActions.UPGRADE):
+        if(bot_id == CustomerActions.UPGRADE.value):
             print("CustomerActions.UPGRADE")
             self.upgrade()
             return
         
         print ("Other")
         print ("Test")
-        print(CustomerActions.TEST)
+        print(CustomerActions.TEST.value)
         print ("MsgUSer")
-        print(message['user'])
+        print(message.get('user'))
         print(message)
-        if(message['user'] == CustomerActions.TEST):
+        if(message.get('user') == CustomerActions.TEST.value):
             self.test()
 
+    def test(self):
+        self.blink()
+ 
+    def new_subscription(self):
+        self.blink()
 
+    def expansion(self):
+        self.blink()
     
     def addon_purchase(self):
-        write_led.writeAll(write_led.RED)
-        write_led.off()
-    
-    def expansion(self):
-        write_led.writeAll(write_led.GREEN)
-        write_led.off()
-    
-    def new_subscription(self):
-        write_led.writeAll(write_led.BLUE)
-        write_led.off()
+        self.spiranAndBlink()
     
     def upgrade(self):
-        write_led.writeAll(write_led.ORANGE)
-        write_led.off()
+        self.spiranAndBlink()
+
+    def blink(self):
+        for x in range(0,3):
+            self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_MINT,1)
+            self.write_led.off()
     
-    def test(self):
-        write_led.writeAll(write_led.YELLOW)
-        write_led.off()
+    def spiranAndBlink(self):
+        for x in range(0,2):
+            self.write_led.lineProgress(self.write_led.SEVEN_SHIFTS_ORANGE,2)
+            self.write_led.off()
+            for x in range(0,3):
+                self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_ORANGE,1)
+                self.write_led.off()
+            
+
+        
         
 

@@ -15,31 +15,30 @@ myDict = {}
 
 myDict["user"] = "U0251J73N0Z" #user
 
-print("user")
-slack_bot.parseAction(myDict)
-time.sleep(3)
+# print("user")
+# slack_bot.parseAction(myDict)
+# time.sleep(3)
 
-myDict["bot_id"] = "B017B9Y5A75" # new subs
-print("new subs")
-slack_bot.parseAction(myDict)
-time.sleep(3)
-
-myDict["bot_id"] = "B017PNTEQE5" # addon
-print("addon")
-slack_bot.parseAction(myDict)
-time.sleep(3)
-
-myDict["bot_id"] = "B016WBNJ7P1" # expans
-print("expans")
-slack_bot.parseAction(myDict)
-time.sleep(3)
-
-myDict["bot_id"] = "B017H9MT02G" # upgrade
-print("upgrade")
-slack_bot.parseAction(myDict)
-time.sleep(3)
+# myDict["bot_id"] = "B017B9Y5A75" # new subs
+# print("new subs")
+# slack_bot.parseAction(myDict)
+# time.sleep(3)
 
 
+# myDict["bot_id"] = "B016WBNJ7P1" # expans
+# print("expans")
+# slack_bot.parseAction(myDict)
+# time.sleep(3)
+
+# myDict["bot_id"] = "B017PNTEQE5" # addon
+# print("addon")
+# slack_bot.parseAction(myDict)
+# time.sleep(3)
+
+# myDict["bot_id"] = "B017H9MT02G" # upgrade
+# print("upgrade")
+# slack_bot.parseAction(myDict)
+# time.sleep(3)
 
 
 # write_led.gradient(write_led.BLUE,5)

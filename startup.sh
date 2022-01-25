@@ -2,6 +2,7 @@
 
 #save it unto /etc/rc.local
 #sleep 15;
+#git -C /home/pi/Desktop/slack_raspberry_led pull origin master;
 #sudo su -c 'python3 /home/pi/Desktop/slack_raspberry_led/main.py &' & 
 
 #bashrc
