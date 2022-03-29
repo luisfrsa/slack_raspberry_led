@@ -14,8 +14,7 @@ class SlackBot:
         self.socker_mode = SocketModeHandler(self.app, APP_TOKEN)
         self.write_led = write_led
 
-    
-    def parseAction(self,message):
+    def parseAction(self, message):
         # message.get('bot_id') = CustomerActions.ADDON_PURCHASE.value
         bot_id = message.get('bot_id')
         print("bot_id")
@@ -37,11 +36,11 @@ class SlackBot:
             print("CustomerActions.UPGRADE")
             self.upgrade()
             return
-        
-        print ("Other")
-        print ("Test")
+
+        print("Other")
+        print("Test")
         print(CustomerActions.TEST.value)
-        print ("MsgUSer")
+        print("MsgUSer")
         print(message.get('user'))
         print(message)
         if(message.get('user') == CustomerActions.TEST.value):
@@ -49,33 +48,28 @@ class SlackBot:
 
     def test(self):
         self.blink()
- 
+
     def new_subscription(self):
         self.blink()
 
     def expansion(self):
         self.blink()
-    
+
     def addon_purchase(self):
         self.spiranAndBlink()
-    
+
     def upgrade(self):
         self.spiranAndBlink()
 
     def blink(self):
-        for x in range(0,3):
-            self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_MINT,1)
+        for x in range(0, 5):
+            self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_MINT, 1)
             self.write_led.off()
-    
+
     def spiranAndBlink(self):
-        for x in range(0,2):
-            self.write_led.lineProgress(self.write_led.SEVEN_SHIFTS_ORANGE,2)
+        for x in range(0, 2):
+            self.write_led.lineProgress(self.write_led.SEVEN_SHIFTS_ORANGE, 4)
             self.write_led.off()
-            for x in range(0,3):
-                self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_ORANGE,1)
+            for x in range(0, 3):
+                self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_ORANGE, 1)
                 self.write_led.off()
-            
-
-        
-        
-
