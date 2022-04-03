@@ -11,19 +11,22 @@ write_led = WriteLed(led_strip)
 slack_bot = SlackBot(write_led)
 app = slack_bot.app
 
-# for tests see ./test.txt
 
+# Led stip test - begin
 myDict = {}
+
 myDict["bot_id"] = "B017B9Y5A75"  # new subs
-print("new subs")
+print("testing new sub")
 slack_bot.parseAction(myDict)
 time.sleep(3)
 
-
-myDict["bot_id"] = "B016WBNJ7P1"  # expans
-print("expans")
+myDict["bot_id"] = "B017H9MT02G"  # upgrade
+print("testing upgrade")
 slack_bot.parseAction(myDict)
 time.sleep(3)
+
+# Led stip test - end
+# for more see ./test.txt
 
 
 # Listens to incoming messages that contain "hello"
