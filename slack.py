@@ -38,8 +38,12 @@ class SlackBot:
             return
 
         print("Other message")
+        text = message.get('text')
         print(message.get('user'))
-        self.misc_message()
+        print(text)
+        if(text == 'test'):
+            self.misc_message()
+
         return
 
         print(message)
