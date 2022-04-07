@@ -37,11 +37,11 @@ class SlackBot:
             self.upgrade()
             return
 
-        print("Other")
-        print("Test")
-        print(CustomerActions.TEST.value)
-        print("MsgUSer")
+        print("Other message")
         print(message.get('user'))
+        self.misc_message()
+        return
+
         print(message)
         if(message.get('user') == CustomerActions.TEST.value):
             self.test()
@@ -56,20 +56,24 @@ class SlackBot:
         self.blink()
 
     def addon_purchase(self):
-        self.spiranAndBlink()
+        self.spiralAndBlink()
 
     def upgrade(self):
-        self.spiranAndBlink()
+        self.spiralAndBlink()
 
     def blink(self):
         for x in range(0, 5):
             self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_MINT, 1)
             self.write_led.off()
 
-    def spiranAndBlink(self):
+    def spiralAndBlink(self):
         for x in range(0, 2):
             self.write_led.lineProgress(self.write_led.SEVEN_SHIFTS_ORANGE, 4)
             self.write_led.off()
             for x in range(0, 3):
                 self.write_led.writeAll(self.write_led.SEVEN_SHIFTS_ORANGE, 1)
                 self.write_led.off()
+
+    def misc_message(self):
+        self.write_led.writeAll(self.write_led.YELLOW, 1)
+        self.write_led.off()
